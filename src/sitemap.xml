@@ -1,0 +1,13 @@
+<#import "/templates/seo.ftl" as seo />
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <#assign pages = pp.s.pages />
+  <#list pages as page>
+  <url>
+    <loc>${seo.canonicalUrl(page.url)}</loc>
+    <lastmod>${pp.outputFileLastModified(page.outputFile)?iso_utc}</lastmod>
+    <changefreq>${(page.sitemap.changefreq)!"yearly"}</changefreq>
+    <priority>${(page.sitemap.priority)!"0.5"}</priority>
+  </url>
+  </#list>
+</urlset><#t />
