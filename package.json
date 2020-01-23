@@ -1,0 +1,22 @@
+{
+  "name": "imagine-having-a-website",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lessc less/styles.less > src/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratherblue/imagine-having-a-website.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ratherblue/imagine-having-a-website/issues"
+  },
+  "homepage": "https://github.com/ratherblue/imagine-having-a-website#readme",
+  "dependencies": {
+    "less": "^3.10.3"
+  }
+}
