@@ -21,5 +21,8 @@
     <p class="copyright"><#t />
       © ${pp.now?string('YYYY')} Imagine Having a Copyright<#t />
     </p>
+    <p>
+      Last updated ${pp.now?string.full}
+    </p>
   </#compress>
 </#macro>
