@@ -19,16 +19,16 @@
       </thead>
       <tbody>
       <#list lootHistory.loothistory.lootentry as row>
-      <tr>
-        <td class="col-loot">
-          <@loot row />
-        </td>
-        <td class="col-player">${row.player}</td>
-        <td class="col-from">
-          ${row.zone}: ${row.boss}
-        </td>
-        <td class="col-date">${(row.timestamp?number * 1000)?number_to_datetime}</td>
-      </tr>
+        <tr>
+          <td class="col-loot">
+            <@loot row />
+          </td>
+          <td class="col-player">${row.player}</td>
+          <td class="col-from">
+            ${row.zone}: ${row.boss}
+          </td>
+          <td class="col-date">${(row.timestamp?number * 1000)?number_to_datetime}</td>
+        </tr>
       </#list>
       </tbody>
     </table>
