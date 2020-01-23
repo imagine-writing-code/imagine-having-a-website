@@ -1,8 +1,21 @@
+language: node_js
+node_js:
+  - "10.15.3"
+dist: trusty
+sudo: required
+
+script:
+  - npm run build
+  - bin/fmpp
+
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep_history: true
+  github_token: $GITHUB_TOKEN
+  local_dir: docs
   on:
     branch: master
 
+notifications:
+  on_success: false
+  on_failure: change
