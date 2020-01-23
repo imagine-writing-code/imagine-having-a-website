@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: @background-color;
+  color: @text-color;
+  font-family: @font-family;
+  line-height: 1.5;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-size: 16px;
+}
+
+// imagine supporting IE
+header,
+nav,
+main {
+  display: block;
+}
+
+a {
+  .default-link();
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: .75em 0;
+  line-height: 1;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 27px;
+}
+
+h4 {
+  font-size: 21px;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}

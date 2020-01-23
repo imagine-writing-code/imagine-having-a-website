@@ -1,0 +1,14 @@
+.default-link() {
+  background: transparent;
+  color: @link-color;
+  text-decoration: none;
+
+  transition: color .2s ease;
+
+  -webkit-tap-highlight-color: rgba(43, 159, 211, 0.3);
+
+  &:hover {
+    color: @link-hover-color;
+    background: transparent;
+  }
+}

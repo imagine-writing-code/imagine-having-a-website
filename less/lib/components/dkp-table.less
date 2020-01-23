@@ -1,0 +1,54 @@
+.dkp-table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  table-layout: fixed;
+
+  th {
+    background-color: #bbb;
+    color: #000;
+  }
+
+  th,
+  td {
+    @row-height: 30px;
+
+    border: 1px solid #999;
+    height: @row-height;
+    line-height: @row-height;
+    padding: 0 6px;
+  }
+
+  tbody tr:hover td {
+    background-color: #333;
+  }
+
+  .col-player {
+    text-align: left;
+
+    @media (min-width: @screen-sm-min) {
+      width: 240px;
+    }
+  }
+
+  .col-class {
+    text-align: center;
+
+    @media (min-width: @screen-sm-min) {
+      width: 60px;
+    }
+
+    .class-icon {
+      display: inline-block;
+      width: 24px;
+      height: 24px;
+    }
+  }
+
+  .col-dkp {
+    text-align: right;
+
+    @media (min-width: @screen-sm-min) {
+      width: 150px;
+    }
+  }
+}
