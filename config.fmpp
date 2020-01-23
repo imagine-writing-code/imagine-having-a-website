@@ -18,5 +18,5 @@ data: {
   domain: imaginehavingaguild.me
   dkpHistory: xml(data/dkp_history.xml)
   dkpTable: xml(data/dkp_table.xml)
-  lookHistory: xml(data/loot_history.xml)
+  lootHistory: xml(data/loot_history.xml)
 }

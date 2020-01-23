@@ -1,0 +1,40 @@
+<#ftl strip_text=true />
+
+<@page.page title="Loot History" activeTab="loot-history" sitemap={ "priority": "0.8", "changefreq": "weekly" }>
+  <#compress>
+    <@lootHistoryTable />
+  </#compress>
+</@page.page>
+
+<#macro lootHistoryTable>
+  <#compress>
+    <table class="table loot-history-table">
+      <thead>
+      <tr>
+        <th class="col-loot">Loot</th>
+        <th class="col-player">Player</th>
+        <th class="col-from">From</th>
+        <th class="col-date">Date</th>
+      </tr>
+      </thead>
+      <tbody>
+      <#list lootHistory.loothistory.lootentry as row>
+      <tr>
+        <td class="col-loot">
+          <@loot row />
+        </td>
+        <td class="col-player">${row.player}</td>
+        <td class="col-from">
+          ${row.zone}: ${row.boss}
+        </td>
+        <td class="col-date">${(row.timestamp?number * 1000)?number_to_datetime}</td>
+      </tr>
+      </#list>
+      </tbody>
+    </table>
+  </#compress>
+</#macro>
+
+<#macro loot row>
+  <a href="https://classic.wowhead.com/item=${row.itemnumber}" data-wowhead="item=${row.itemnumber}" style="padding-left: 18px"><span>${row.itemname}</span></a> (${row.cost})
+</#macro>

@@ -72,6 +72,14 @@
       <@footer.wrapper>
         <@footer.copyright />
       </@footer.wrapper>
+      <script>
+        var whTooltips = {
+          colorLinks: true,
+          iconizeLinks: true,
+          renameLinks: true
+        };
+      </script>
+      <script src="https://wow.zamimg.com/widgets/power.js"></script>
     </body>
     </html>
   </#compress>
