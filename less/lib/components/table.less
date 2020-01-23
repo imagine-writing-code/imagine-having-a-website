@@ -6,6 +6,49 @@
   th {
     background-color: #bbb;
     color: #000;
+
+    &.sorting,
+    &.sorting_asc,
+    &.sorting_desc {
+      text-decoration: underline;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #aaa;
+      }
+    }
+
+    &.sorting_asc {
+      .sort-arrow {
+        @thickness: 5px;
+
+        width: 0;
+        height: 0;
+        border-left: @thickness solid transparent;
+        border-right: @thickness solid transparent;
+        border-bottom: @thickness solid black;
+      }
+    }
+
+    &.sorting_desc {
+      .sort-arrow {
+        @thickness: 5px;
+
+        width: 0;
+        height: 0;
+        border-left: @thickness solid transparent;
+        border-right: @thickness solid transparent;
+        border-top: @thickness solid black;
+      }
+    }
+
+    .sort-arrow {
+      display: inline-flex;
+      margin-left: 4px;
+      width: 10px;
+      top: -2px;
+      position: relative;
+    }
   }
 
   th,

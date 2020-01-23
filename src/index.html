@@ -8,19 +8,19 @@
 
 <#macro dkpList>
   <#compress>
-    <table class="table dkp-table">
+    <table id="dkpTable" class="table dkp-table sortable">
       <thead>
         <tr>
-          <th class="col-player">Player</th>
-          <th class="col-class">Class</th>
-          <th class="col-dkp">DKP</th>
+          <th class="col-player sorting sorting_asc">Player<span class="sort-arrow"></span></th>
+          <th class="col-class sorting">Class<span class="sort-arrow"></span></th>
+          <th class="col-dkp sorting">DKP<span class="sort-arrow"></span></th>
         </tr>
       </thead>
       <tbody>
         <#list dkpTable.dkptable.dkpentry as row>
             <tr>
               <td class="col-player">${row.player}</td>
-              <td class="col-class ${row.class?lower_case}"><#t/>
+              <td class="col-class ${row.class?lower_case}" data-order="${row.class?lower_case}"><#t/>
                 <img class="class-icon" src="https://wow.zamimg.com/images/wow/icons/large/classicon_${row.class?lower_case}.jpg"><#t/>
               </td><#t/>
               <td class="col-dkp">${row.dkp}</td>

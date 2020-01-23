@@ -80,6 +80,25 @@
         };
       </script>
       <script src="https://wow.zamimg.com/widgets/power.js"></script>
+      <script
+        src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+        crossorigin="anonymous"></script>
+      <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+      <script>
+        $(document).ready(function() {
+          var options = {
+            autoWidth: false,
+            order: [],
+            stripeClasses: [],
+            searching: false,
+            paging: false
+          };
+
+          $('#dkpTable').DataTable({ ...options, order: [[0, 'asc']] });
+          $('#lootHistoryTable').DataTable({ ...options, order: [[3, 'desc']] });
+        });
+      </script>
     </body>
     </html>
   </#compress>

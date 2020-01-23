@@ -8,26 +8,26 @@
 
 <#macro lootHistoryTable>
   <#compress>
-    <table class="table loot-history-table">
+    <table id="lootHistoryTable" class="table loot-history-table">
       <thead>
       <tr>
-        <th class="col-loot">Loot</th>
-        <th class="col-player">Player</th>
-        <th class="col-from">From</th>
-        <th class="col-date">Date</th>
+        <th class="col-loot sorting">Loot<span class="sort-arrow"></span></th>
+        <th class="col-player sorting">Player<span class="sort-arrow"></span></th>
+        <th class="col-from sorting">From<span class="sort-arrow"></span></th>
+        <th class="col-date sorting">Date<span class="sort-arrow"></span></th>
       </tr>
       </thead>
       <tbody>
       <#list lootHistory.loothistory.lootentry as row>
         <tr>
-          <td class="col-loot">
+          <td class="col-loot" data-order="${row.itemname}">
             <@loot row />
           </td>
           <td class="col-player">${row.player}</td>
           <td class="col-from">
             ${row.zone}: ${row.boss}
           </td>
-          <td class="col-date">${(row.timestamp?number * 1000)?number_to_datetime}</td>
+          <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}</td>
         </tr>
       </#list>
       </tbody>
