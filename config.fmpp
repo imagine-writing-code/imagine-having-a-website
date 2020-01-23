@@ -1,0 +1,22 @@
+# encoding: UTF-8
+sourceEncoding: UTF-8
+outputEncoding: UTF-8
+urlEscapingCharset: UTF-8
+sourceRoot: src
+outputRoot: docs
+logFile: log.fmpp
+caseSensitive
+borders: [
+  header("<#import '/templates/common.ftl' as c />", **/*.html, /portfolio/*.ftl)
+  header("<#import '/templates/common.ftl' as c />", sitemap.xml)
+]
+modes: [
+  ignore(/templates/, /less/, *.js, .DS_Store, /data/)
+  copy(*.txt, /css/styles.css, favicon.png)
+]
+data: {
+  domain: imaginehavingaguild.me
+  dkpHistory: xml(data/dkp_history.xml)
+  dkpTable: xml(data/dkp_table.xml)
+  lookHistory: xml(data/loot_history.xml)
+}
