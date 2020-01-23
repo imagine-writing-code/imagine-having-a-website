@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# ignore generated files
+.idea/
+log.fmpp
+.DS_Store
+docs/
+src/css/
