@@ -13,8 +13,8 @@
       <tr>
         <th class="col-loot sorting">Loot<span class="sort-arrow"></span></th>
         <th class="col-player sorting">Player<span class="sort-arrow"></span></th>
-        <th class="col-from sorting">From<span class="sort-arrow"></span></th>
         <th class="col-dkp sorting">Cost<span class="sort-arrow"></span></th>
+        <th class="col-from sorting">From<span class="sort-arrow"></span></th>
         <th class="col-date sorting">Date<span class="sort-arrow"></span></th>
       </tr>
       </thead>
@@ -25,10 +25,10 @@
             <@loot row />
           </td>
           <td class="col-player">${row.player}</td>
+          <td class="col-cost">${row.cost?number * -1}</td>
           <td class="col-from">
             ${row.zone}: ${row.boss}
           </td>
-          <td class="col-cost">${row.cost?number}</td>
           <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}</td>
         </tr>
       </#list>
