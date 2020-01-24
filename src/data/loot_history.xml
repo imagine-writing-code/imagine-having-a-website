@@ -648,15 +648,6 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Breastplate of Might</itemname>
-        <itemnumber>16865</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816239</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
         <player>Sevi</player>
         <itemname>Mantle of Prophecy</itemname>
         <itemnumber>16816</itemnumber>
@@ -672,24 +663,6 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816236</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Mantle of Prophecy</itemname>
-        <itemnumber>16816</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816233</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ricki</player>
-        <itemname>Staff of Dominance</itemname>
-        <itemnumber>18842</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816233</timestamp>
         <cost>-0</cost>
     </lootentry>
     <lootentry>
@@ -707,25 +680,7 @@
         <itemnumber>16922</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
-        <timestamp>1577816228</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Villagebike</player>
-        <itemname>Leggings of Transcendence</itemname>
-        <itemnumber>16922</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
         <timestamp>1577816225</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Whillwinz</player>
-        <itemname>Legplates of Ten Storms</itemname>
-        <itemnumber>16946</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816223</timestamp>
         <cost>-0</cost>
     </lootentry>
     <lootentry>
@@ -747,15 +702,6 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
-        <player>Firefist</player>
-        <itemname>Belt of Might</itemname>
-        <itemnumber>16864</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816202</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
         <player>Trist</player>
         <itemname>Perdition's Blade</itemname>
         <itemnumber>18816</itemnumber>
@@ -765,30 +711,12 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
-        <player>Trist</player>
-        <itemname>Perdition's Blade</itemname>
-        <itemnumber>18816</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816198</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
         <player>Sevi</player>
         <itemname>Seal of the Archmagus</itemname>
         <itemnumber>17110</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816198</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Seal of the Archmagus</itemname>
-        <itemnumber>17110</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816195</timestamp>
         <cost>-0</cost>
     </lootentry>
     <lootentry>
@@ -802,35 +730,8 @@
     </lootentry>
     <lootentry>
         <player>Ivy</player>
-        <itemname>Cenarion Gloves</itemname>
-        <itemnumber>16831</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816191</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
         <itemname>Cenarion Spaulders</itemname>
         <itemnumber>16836</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816190</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Cenarion Spaulders</itemname>
-        <itemnumber>16836</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816187</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Dirtbutton</player>
-        <itemname>Aurastone Hammer</itemname>
-        <itemnumber>17105</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816187</timestamp>
@@ -851,34 +752,7 @@
         <itemnumber>16922</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
-        <timestamp>1577816182</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Villagebike</player>
-        <itemname>Leggings of Transcendence</itemname>
-        <itemnumber>16922</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
         <timestamp>1577816179</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Dominaro</player>
-        <itemname>Netherwind Crown</itemname>
-        <itemnumber>16914</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816178</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Ancient Cornerstone Grimoire</itemname>
-        <itemnumber>17067</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816175</timestamp>
         <cost>-0</cost>
     </lootentry>
     <lootentry>
@@ -914,169 +788,7 @@
         <itemnumber>18879</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
-        <timestamp>1577816169</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Trist</player>
-        <itemname>Head of Onyxia</itemname>
-        <itemnumber>18423</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816168</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
         <timestamp>1577816166</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816078</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816073</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Trist</player>
-        <itemname>Head of Onyxia</itemname>
-        <itemnumber>18423</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816022</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Ancient Cornerstone Grimoire</itemname>
-        <itemnumber>17067</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816014</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Dominaro</player>
-        <itemname>Netherwind Crown</itemname>
-        <itemnumber>16914</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816007</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Villagebike</player>
-        <itemname>Leggings of Transcendence</itemname>
-        <itemnumber>16922</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815993</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Whillwinz</player>
-        <itemname>Legplates of Ten Storms</itemname>
-        <itemnumber>16946</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815981</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Trist</player>
-        <itemname>Perdition's Blade</itemname>
-        <itemnumber>18816</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815972</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Firefist</player>
-        <itemname>Belt of Might</itemname>
-        <itemnumber>16864</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815959</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Breastplate of Might</itemname>
-        <itemnumber>16865</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815943</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ricki</player>
-        <itemname>Staff of Dominance</itemname>
-        <itemnumber>18842</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815933</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Mantle of Prophecy</itemname>
-        <itemnumber>16816</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815908</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Seal of the Archmagus</itemname>
-        <itemnumber>17110</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815892</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Cenarion Spaulders</itemname>
-        <itemnumber>16836</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815881</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Cenarion Gloves</itemname>
-        <itemnumber>16831</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815871</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Dirtbutton</player>
-        <itemname>Aurastone Hammer</itemname>
-        <itemnumber>17105</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815826</timestamp>
         <cost>-0</cost>
     </lootentry>
     <lootentry>
@@ -1090,56 +802,11 @@
     </lootentry>
     <lootentry>
         <player>Ivy</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815671</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
         <itemname>Cenarion Leggings</itemname>
         <itemnumber>16835</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815668</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815668</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Cenarion Leggings</itemname>
-        <itemnumber>16835</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815665</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ivy</player>
-        <itemname>Cenarion Leggings</itemname>
-        <itemnumber>16835</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815653</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815410</timestamp>
         <cost>-0</cost>
     </lootentry>
 </loothistory>
