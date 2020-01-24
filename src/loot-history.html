@@ -28,7 +28,7 @@
           <td class="col-from">
             ${row.zone}: ${row.boss}
           </td>
-          <td class="col-cost">${row.cost}</td>
+          <td class="col-cost">${row.cost?number}</td>
           <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}</td>
         </tr>
       </#list>
