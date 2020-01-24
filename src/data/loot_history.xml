@@ -189,24 +189,6 @@
         <cost>-25</cost>
     </lootentry>
     <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Obsidian Edged Blade</itemname>
-        <itemnumber>18822</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Garr</boss>
-        <timestamp>1579143441</timestamp>
-        <cost>20</cost>
-    </lootentry>
-    <lootentry>
-        <player>Bonjwa</player>
-        <itemname>Obsidian Edged Blade</itemname>
-        <itemnumber>18822</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Garr</boss>
-        <timestamp>1579143245</timestamp>
-        <cost>-20</cost>
-    </lootentry>
-    <lootentry>
         <player>Trist</player>
         <itemname>Gutgore Ripper</itemname>
         <itemnumber>17071</itemnumber>
@@ -267,7 +249,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554492</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -276,7 +258,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554472</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Aeonic</player>
@@ -285,7 +267,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554374</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Donutman</player>
@@ -294,7 +276,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554347</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Tagus</player>
@@ -303,7 +285,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554314</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Durrty</player>
@@ -312,7 +294,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554282</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -321,7 +303,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554256</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Durrty</player>
@@ -330,7 +312,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554233</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -339,7 +321,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554145</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -348,7 +330,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554117</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Aeonic</player>
@@ -357,7 +339,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578554057</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -366,7 +348,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553982</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Bendaksk</player>
@@ -375,7 +357,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553957</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Worthlessgg</player>
@@ -384,7 +366,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553870</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -393,7 +375,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553847</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Kikashie</player>
@@ -402,7 +384,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553626</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -411,7 +393,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553588</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -420,7 +402,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553536</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Durrty</player>
@@ -429,7 +411,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553505</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -438,7 +420,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553427</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Basola</player>
@@ -447,7 +429,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553393</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -456,7 +438,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553369</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -465,7 +447,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553326</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Randomaction</player>
@@ -474,7 +456,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553293</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Basola</player>
@@ -483,7 +465,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553258</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Worthlessgg</player>
@@ -492,7 +474,7 @@
         <zone>Molten Core</zone>
         <boss>Lucifron</boss>
         <timestamp>1578553219</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Hauntedmac</player>
@@ -675,13 +657,22 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
+        <player>Sevi</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816236</timestamp>
+        <cost>-0</cost>
+    </lootentry>
+    <lootentry>
         <player>Bonjwa</player>
         <itemname>Breastplate of Might</itemname>
         <itemnumber>16865</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816236</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Sevi</player>
@@ -689,7 +680,7 @@
         <itemnumber>16816</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
-        <timestamp>1577816236</timestamp>
+        <timestamp>1577816233</timestamp>
         <cost>-0</cost>
     </lootentry>
     <lootentry>
@@ -700,15 +691,6 @@
         <boss>Onyxia</boss>
         <timestamp>1577816233</timestamp>
         <cost>-0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Mantle of Prophecy</itemname>
-        <itemnumber>16816</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816233</timestamp>
-        <cost>70</cost>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -717,7 +699,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816230</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Villagebike</player>
@@ -735,7 +717,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816225</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -753,7 +735,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816220</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Firefist</player>
@@ -771,7 +753,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816202</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -789,7 +771,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816198</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Sevi</player>
@@ -807,7 +789,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816195</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -825,7 +807,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816191</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -837,6 +819,15 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
+        <player>Ivy</player>
+        <itemname>Cenarion Spaulders</itemname>
+        <itemnumber>16836</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816187</timestamp>
+        <cost>-0</cost>
+    </lootentry>
+    <lootentry>
         <player>Dirtbutton</player>
         <itemname>Aurastone Hammer</itemname>
         <itemnumber>17105</itemnumber>
@@ -846,22 +837,13 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
-        <player>Ivy</player>
-        <itemname>Cenarion Spaulders</itemname>
-        <itemnumber>16836</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577816187</timestamp>
-        <cost>70</cost>
-    </lootentry>
-    <lootentry>
         <player>Dirtbutton</player>
         <itemname>Aurastone Hammer</itemname>
         <itemnumber>17105</itemnumber>
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816184</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Villagebike</player>
@@ -870,7 +852,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816182</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Villagebike</player>
@@ -879,7 +861,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816179</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Dominaro</player>
@@ -906,7 +888,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816175</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -915,7 +897,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816172</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -942,7 +924,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816168</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -951,7 +933,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816166</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -969,7 +951,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816073</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -978,7 +960,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816022</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -987,7 +969,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816014</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Dominaro</player>
@@ -996,7 +978,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577816007</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Villagebike</player>
@@ -1005,7 +987,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815993</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -1014,7 +996,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815981</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -1023,7 +1005,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815972</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Firefist</player>
@@ -1032,7 +1014,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815959</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -1041,7 +1023,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815943</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -1050,7 +1032,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815933</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Sevi</player>
@@ -1059,7 +1041,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815908</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Sevi</player>
@@ -1068,7 +1050,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815892</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1077,7 +1059,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815881</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1086,7 +1068,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815871</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Dirtbutton</player>
@@ -1095,7 +1077,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815826</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -1131,7 +1113,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815668</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1176,7 +1158,7 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815564</timestamp>
-        <cost>70</cost>
+        <cost>-0</cost>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -1185,6 +1167,6 @@
         <zone>Onyxia's Lair</zone>
         <boss>Onyxia</boss>
         <timestamp>1577815410</timestamp>
-        <cost>-70</cost>
+        <cost>-0</cost>
     </lootentry>
 </loothistory>
