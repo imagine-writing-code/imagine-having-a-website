@@ -6,6 +6,9 @@ sourceRoot: src
 outputRoot: docs
 logFile: log.fmpp
 caseSensitive
+timeZone: America/Los_Angeles
+datetimeFormat: MM/dd/yyyy hh:mm:ss a z
+numberFormat: 0.00
 borders: [
   header("<#import '/templates/common.ftl' as c />", **/*.html, /portfolio/*.ftl)
   header("<#import '/templates/common.ftl' as c />", sitemap.xml)
