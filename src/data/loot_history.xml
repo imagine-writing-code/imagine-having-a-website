@@ -1134,33 +1134,6 @@
         <cost>-0</cost>
     </lootentry>
     <lootentry>
-        <player>Sevi</player>
-        <itemname>Crimson Shocker</itemname>
-        <itemnumber>17077</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815568</timestamp>
-        <cost>12</cost>
-    </lootentry>
-    <lootentry>
-        <player>Whillwinz</player>
-        <itemname>Ring of Spell Power</itemname>
-        <itemnumber>19147</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815566</timestamp>
-        <cost>25</cost>
-    </lootentry>
-    <lootentry>
-        <player>Whillwinz</player>
-        <itemname>Seal of the Archmagus</itemname>
-        <itemnumber>17110</itemnumber>
-        <zone>Onyxia's Lair</zone>
-        <boss>Onyxia</boss>
-        <timestamp>1577815564</timestamp>
-        <cost>-0</cost>
-    </lootentry>
-    <lootentry>
         <player>Bonjwa</player>
         <itemname>Heavy Dark Iron Ring</itemname>
         <itemnumber>18879</itemnumber>
