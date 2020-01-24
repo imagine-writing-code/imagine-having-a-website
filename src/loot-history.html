@@ -14,6 +14,7 @@
         <th class="col-loot sorting">Loot<span class="sort-arrow"></span></th>
         <th class="col-player sorting">Player<span class="sort-arrow"></span></th>
         <th class="col-from sorting">From<span class="sort-arrow"></span></th>
+        <th class="col-dkp sorting">Cost<span class="sort-arrow"></span></th>
         <th class="col-date sorting">Date<span class="sort-arrow"></span></th>
       </tr>
       </thead>
@@ -24,6 +25,7 @@
             <@loot row />
           </td>
           <td class="col-player">${row.player}</td>
+          <td class="col-cost">${row.cost}</td>
           <td class="col-from">
             ${row.zone}: ${row.boss}
           </td>
@@ -36,5 +38,5 @@
 </#macro>
 
 <#macro loot row>
-  <a href="https://classic.wowhead.com/item=${row.itemnumber}" data-wowhead="item=${row.itemnumber}" style="padding-left: 18px"><span>${row.itemname}</span></a> (${row.cost})
+  <a href="https://classic.wowhead.com/item=${row.itemnumber}" data-wowhead="item=${row.itemnumber}" style="padding-left: 18px"><span>${row.itemname}</span></a>
 </#macro>
