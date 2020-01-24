@@ -92,7 +92,8 @@
             order: [],
             stripeClasses: [],
             searching: false,
-            paging: false
+            paging: false,
+            info: false
           };
 
           $('#dkpTable').DataTable({ ...options, order: [[0, 'asc']] });
