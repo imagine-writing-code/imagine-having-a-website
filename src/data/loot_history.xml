@@ -1,5 +1,23 @@
 <loothistory>
     <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580258840</timestamp>
+        <cost>-10</cost>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580258837</timestamp>
+        <cost>15</cost>
+    </lootentry>
+    <lootentry>
         <player>Huckit</player>
         <itemname>Bloodfang Hood</itemname>
         <itemnumber>16908</itemnumber>

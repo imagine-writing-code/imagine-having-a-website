@@ -25,7 +25,7 @@
             <@loot row />
           </td>
           <td class="col-player">${row.player}</td>
-          <td class="col-cost">${row.cost?number * -1}</td>
+          <td class="col-cost">${row.cost?number?abs}</td>
           <td class="col-from">
             ${row.zone}: ${row.boss}
           </td>
