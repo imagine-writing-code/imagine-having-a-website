@@ -21,7 +21,7 @@
         <#list dkpHistory.dkphistory.historyentry as row>
           <tr>
             <td class="col-players">${row.playerstring?split(",")?sort?join(", ")?remove_beginning(", ")}</td>
-            <td class="col-dkp" title="${row.dkp}">${row.dkp?number}</td>
+            <td class="col-dkp" title="${row.dkp}">${row.dkp}</td>
             <td class="col-reason">${row.reason}</td>
             <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}</td>
           </tr>
