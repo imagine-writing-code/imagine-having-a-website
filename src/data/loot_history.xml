@@ -7,6 +7,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580357214</timestamp>
         <cost>-42</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -16,6 +18,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580357211</timestamp>
         <cost>20</cost>
+        <deletes>Ricki-1580357092</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -25,6 +29,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580357092</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby>Ricki-1580357211</deletedby>
     </lootentry>
     <lootentry>
         <player>Dbags</player>
@@ -34,6 +40,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580356994</timestamp>
         <cost>-86</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Tagus</player>
@@ -43,6 +51,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580356257</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Robthegiant</player>
@@ -52,6 +62,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580356197</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Wigglz</player>
@@ -61,6 +73,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580356107</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -70,6 +84,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580356039</timestamp>
         <cost>-73.7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Randomaction</player>
@@ -79,6 +95,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580355993</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -88,6 +106,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580355944</timestamp>
         <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Itzalljeezy</player>
@@ -97,6 +117,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580355875</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Danielson</player>
@@ -106,6 +128,8 @@
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1580354889</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Donutman</player>
@@ -115,6 +139,8 @@
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1580354837</timestamp>
         <cost>-13</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Robthegiant</player>
@@ -124,6 +150,8 @@
         <boss>Shazzrah</boss>
         <timestamp>1580354028</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Wigglz</player>
@@ -133,6 +161,8 @@
         <boss>Baron Geddon</boss>
         <timestamp>1580353309</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Duress</player>
@@ -142,6 +172,8 @@
         <boss>Garr</boss>
         <timestamp>1580352909</timestamp>
         <cost>-19.8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kidon</player>
@@ -151,6 +183,8 @@
         <boss>Garr</boss>
         <timestamp>1580352404</timestamp>
         <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Cleavesteamr</player>
@@ -160,6 +194,8 @@
         <boss>Garr</boss>
         <timestamp>1580352323</timestamp>
         <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Huckit</player>
@@ -169,6 +205,8 @@
         <boss>Gehennas</boss>
         <timestamp>1580351837</timestamp>
         <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -178,6 +216,8 @@
         <boss>Gehennas</boss>
         <timestamp>1580351473</timestamp>
         <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bleys</player>
@@ -187,6 +227,8 @@
         <boss>Magmadar</boss>
         <timestamp>1580351141</timestamp>
         <cost>-12</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Xanthos</player>
@@ -196,6 +238,8 @@
         <boss>Magmadar</boss>
         <timestamp>1580351044</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bleys</player>
@@ -205,6 +249,8 @@
         <boss>Magmadar</boss>
         <timestamp>1580350975</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -214,6 +260,8 @@
         <boss>Magmadar</boss>
         <timestamp>1580350905</timestamp>
         <cost>-35</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Aeonic</player>
@@ -223,6 +271,8 @@
         <boss>Lucifron</boss>
         <timestamp>1580350494</timestamp>
         <cost>-69.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Fulminator</player>
@@ -232,6 +282,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580258840</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Fulminator</player>
@@ -241,6 +293,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580258837</timestamp>
         <cost>15</cost>
+        <deletes>Ricki-1580185882</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Huckit</player>
@@ -250,6 +304,8 @@
         <boss>Onyxia</boss>
         <timestamp>1580187220</timestamp>
         <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Duress</player>
@@ -259,6 +315,8 @@
         <boss>Onyxia</boss>
         <timestamp>1580187184</timestamp>
         <cost>-62</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Fulminator</player>
@@ -268,6 +326,8 @@
         <boss>Ripscale</boss>
         <timestamp>1580186442</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Fulminator</player>
@@ -277,6 +337,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185882</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1580258837</deletedby>
     </lootentry>
     <lootentry>
         <player>Fulminator</player>
@@ -286,6 +348,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185879</timestamp>
         <cost>10</cost>
+        <deletes>Ricki-1580185736</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Adyss</player>
@@ -295,6 +359,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185866</timestamp>
         <cost>-35</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Adyss</player>
@@ -304,6 +370,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185863</timestamp>
         <cost>10</cost>
+        <deletes>Ricki-1580185514</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Fulminator</player>
@@ -313,6 +381,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185736</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby>Ricki-1580185879</deletedby>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -322,6 +392,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185654</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Adyss</player>
@@ -331,6 +403,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1580185514</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby>Ricki-1580185863</deletedby>
     </lootentry>
     <lootentry>
         <player>Robthegiant</player>
@@ -340,6 +414,8 @@
         <boss>Flamewaker Healer</boss>
         <timestamp>1580184677</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Curie</player>
@@ -349,6 +425,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1580184504</timestamp>
         <cost>-58</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kidon</player>
@@ -358,6 +436,8 @@
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1580184168</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Donutman</player>
@@ -367,6 +447,8 @@
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1580184119</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Robthegiant</player>
@@ -376,6 +458,8 @@
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1580184047</timestamp>
         <cost>-50</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Adyss</player>
@@ -385,6 +469,8 @@
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1580183464</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Danielson</player>
@@ -394,6 +480,8 @@
         <boss>Shazzrah</boss>
         <timestamp>1580182769</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Huckit</player>
@@ -403,6 +491,8 @@
         <boss>Shazzrah</boss>
         <timestamp>1580182394</timestamp>
         <cost>-18</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bleys</player>
@@ -412,6 +502,8 @@
         <boss>Baron Geddon</boss>
         <timestamp>1580181500</timestamp>
         <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dominaro</player>
@@ -421,6 +513,8 @@
         <boss>Garr</boss>
         <timestamp>1580180524</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -430,6 +524,8 @@
         <boss>Garr</boss>
         <timestamp>1580180341</timestamp>
         <cost>-31</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -439,6 +535,8 @@
         <boss>Gehennas</boss>
         <timestamp>1580179622</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -448,6 +546,8 @@
         <boss>Gehennas</boss>
         <timestamp>1580179558</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Danielson</player>
@@ -457,6 +557,8 @@
         <boss>Magmadar</boss>
         <timestamp>1580178916</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -466,6 +568,8 @@
         <boss>Lucifron</boss>
         <timestamp>1580178693</timestamp>
         <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Donutman</player>
@@ -475,6 +579,8 @@
         <boss>Lucifron</boss>
         <timestamp>1580178582</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -484,6 +590,8 @@
         <boss>Onyxia</boss>
         <timestamp>1579573302</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Cleavesteamr</player>
@@ -493,6 +601,8 @@
         <boss>Onyxia</boss>
         <timestamp>1579573226</timestamp>
         <cost>-50</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dranzdervish</player>
@@ -502,6 +612,8 @@
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1579231226</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Randomaction</player>
@@ -511,6 +623,8 @@
         <boss>Onyxia</boss>
         <timestamp>1579151972</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dranzdervish</player>
@@ -520,6 +634,8 @@
         <boss>Onyxia</boss>
         <timestamp>1579151810</timestamp>
         <cost>-12</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -529,6 +645,8 @@
         <boss>Onyxia</boss>
         <timestamp>1579151736</timestamp>
         <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Xanthos</player>
@@ -538,6 +656,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1579150147</timestamp>
         <cost>-41.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dominaro</player>
@@ -547,6 +667,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1579150047</timestamp>
         <cost>-41.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dirtbutton</player>
@@ -556,6 +678,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1579149617</timestamp>
         <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Essentia</player>
@@ -565,6 +689,8 @@
         <boss>Ragnaros</boss>
         <timestamp>1579149567</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -574,6 +700,8 @@
         <boss>Majordomo Executus</boss>
         <timestamp>1579148119</timestamp>
         <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Natpagle</player>
@@ -583,6 +711,8 @@
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1579147187</timestamp>
         <cost>-34.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Adyss</player>
@@ -592,6 +722,8 @@
         <boss>Golemagg the Incinerator</boss>
         <timestamp>1579147037</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kikashie</player>
@@ -601,6 +733,8 @@
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1579146444</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Essentia</player>
@@ -610,6 +744,8 @@
         <boss>Sulfuron Harbinger</boss>
         <timestamp>1579146354</timestamp>
         <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -619,6 +755,8 @@
         <boss>Shazzrah</boss>
         <timestamp>1579145450</timestamp>
         <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Aveda</player>
@@ -628,6 +766,8 @@
         <boss>Shazzrah</boss>
         <timestamp>1579145293</timestamp>
         <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Almidas</player>
@@ -637,6 +777,8 @@
         <boss>Shazzrah</boss>
         <timestamp>1579145216</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -646,6 +788,8 @@
         <boss>Baron Geddon</boss>
         <timestamp>1579144645</timestamp>
         <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -655,6 +799,8 @@
         <boss>Garr</boss>
         <timestamp>1579144245</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -664,6 +810,8 @@
         <boss>Garr</boss>
         <timestamp>1579143444</timestamp>
         <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -673,6 +821,8 @@
         <boss>Garr</boss>
         <timestamp>1579143182</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Danielson</player>
@@ -682,6 +832,8 @@
         <boss>Garr</boss>
         <timestamp>1579143123</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kikashie</player>
@@ -691,6 +843,8 @@
         <boss>Gehennas</boss>
         <timestamp>1579142273</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Huckit</player>
@@ -700,6 +854,8 @@
         <boss>Magmadar</boss>
         <timestamp>1579141750</timestamp>
         <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -709,6 +865,8 @@
         <boss>Magmadar</boss>
         <timestamp>1579141651</timestamp>
         <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -718,6 +876,8 @@
         <boss>Lucifron</boss>
         <timestamp>1579141368</timestamp>
         <cost>-17</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Almidas</player>
@@ -727,6 +887,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554492</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -736,6 +898,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554472</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Aeonic</player>
@@ -745,6 +909,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554374</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Donutman</player>
@@ -754,6 +920,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554347</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Tagus</player>
@@ -763,6 +931,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554314</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durrty</player>
@@ -772,6 +942,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554282</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -781,6 +953,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554256</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durrty</player>
@@ -790,6 +964,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554233</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -799,6 +975,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554145</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -808,6 +986,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554117</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Aeonic</player>
@@ -817,6 +997,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578554057</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -826,6 +1008,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553982</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bendaksk</player>
@@ -835,6 +1019,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553957</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Worthlessgg</player>
@@ -844,6 +1030,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553870</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Darthplaguiz</player>
@@ -853,6 +1041,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553847</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kikashie</player>
@@ -862,6 +1052,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553626</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -871,6 +1063,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553588</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -880,6 +1074,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553536</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durrty</player>
@@ -889,6 +1085,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553505</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Doomhammar</player>
@@ -898,6 +1096,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553427</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Basola</player>
@@ -907,6 +1107,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553393</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Durumi</player>
@@ -916,6 +1118,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553369</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -925,6 +1129,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553326</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Randomaction</player>
@@ -934,6 +1140,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553293</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Basola</player>
@@ -943,6 +1151,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553258</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Worthlessgg</player>
@@ -952,6 +1162,8 @@
         <boss>Lucifron</boss>
         <timestamp>1578553219</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Hauntedmac</player>
@@ -961,6 +1173,8 @@
         <boss>Onyxia</boss>
         <timestamp>1578035641</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -970,6 +1184,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995229</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -979,6 +1195,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995188</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -988,6 +1206,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995173</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -997,6 +1217,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995158</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -1006,6 +1228,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995136</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Firefist</player>
@@ -1015,6 +1239,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995124</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kikashie</player>
@@ -1024,6 +1250,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995101</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -1033,6 +1261,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995077</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Basola</player>
@@ -1042,6 +1272,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995058</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Aveda</player>
@@ -1051,6 +1283,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995023</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dranzdervish</player>
@@ -1060,6 +1294,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577995008</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kikashie</player>
@@ -1069,6 +1305,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994993</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bebop</player>
@@ -1078,6 +1316,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994960</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Duress</player>
@@ -1087,6 +1327,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994947</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dirtbutton</player>
@@ -1096,6 +1338,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994931</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bendaksk</player>
@@ -1105,6 +1349,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994914</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Kerm</player>
@@ -1114,6 +1360,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994899</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bendaksk</player>
@@ -1123,6 +1371,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577994874</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -1132,6 +1382,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816236</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577815943</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Sevi</player>
@@ -1141,6 +1393,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816236</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ricki</player>
@@ -1150,6 +1404,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816230</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577815933</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Villagebike</player>
@@ -1159,6 +1415,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816225</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577816182</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Whillwinz</player>
@@ -1168,6 +1426,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816220</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577815981</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Firefist</player>
@@ -1177,6 +1437,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816205</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -1186,6 +1448,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816201</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Sevi</player>
@@ -1195,6 +1459,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816198</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1204,6 +1470,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816194</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1213,6 +1481,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816187</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577815881</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dirtbutton</player>
@@ -1222,6 +1492,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816184</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577815826</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Dominaro</player>
@@ -1231,6 +1503,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816175</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577816007</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1240,6 +1514,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816172</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577816014</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -1249,6 +1525,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816171</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Bonjwa</player>
@@ -1258,6 +1536,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577816166</timestamp>
         <cost>0</cost>
+        <deletes>Whillwinz-1577816073</deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Trist</player>
@@ -1267,6 +1547,8 @@
         <boss>Onyxia</boss>
         <timestamp>1577815777</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
     <lootentry>
         <player>Ivy</player>
@@ -1276,5 +1558,7 @@
         <boss>Onyxia</boss>
         <timestamp>1577815668</timestamp>
         <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
     </lootentry>
 </loothistory>

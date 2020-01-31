@@ -1,6 +1,6 @@
 <#ftl strip_text=true />
 
-<@page.page title="DKP History" activeTab="dkp-history" sitemap={ "priority": "0.8", "changefreq": "weekly" }>
+<@page.page title="DKP History" activeTab="dkp-history" sitemap={ "priority" : "0.8" , "changefreq" : "weekly" }>
   <#compress>
     <@dkpHistoryTable />
   </#compress>
@@ -19,12 +19,20 @@
       </thead>
       <tbody>
         <#list dkpHistory.dkphistory.historyentry as row>
-          <tr>
-            <td class="col-players">${row.playerstring?split(",")?sort?join(", ")?remove_beginning(", ")}</td>
-            <td class="col-dkp" title="${row.dkp}">${row.dkp}</td>
-            <td class="col-reason">${row.reason}</td>
-            <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}</td>
-          </tr>
+          <#if row.deletes=='' && row.deletedby==''>
+            <tr>
+              <td class="col-players">${row.playerstring?split(",")?sort?join(", ")?remove_beginning(", ")}</td>
+              <#local dkp=row.dkp?split(',')?last>
+                <#attempt>
+                  <#local dkp=dkp?number>
+                    <#recover>
+                </#attempt>
+                <td class="col-dkp" title="${dkp}">${dkp}</td>
+                <td class="col-reason">${row.reason}</td>
+                <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}
+                </td>
+            </tr>
+          </#if>
         </#list>
       </tbody>
     </table>

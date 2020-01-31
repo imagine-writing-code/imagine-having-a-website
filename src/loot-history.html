@@ -1,6 +1,6 @@
 <#ftl strip_text=true />
 
-<@page.page title="Loot History" activeTab="loot-history" sitemap={ "priority": "0.8", "changefreq": "weekly" }>
+<@page.page title="Loot History" activeTab="loot-history" sitemap={ "priority" : "0.8" , "changefreq" : "weekly" }>
   <#compress>
     <@lootHistoryTable />
   </#compress>
@@ -10,33 +10,37 @@
   <#compress>
     <table id="lootHistoryTable" class="table loot-history-table">
       <thead>
-      <tr>
-        <th class="col-loot sorting">Loot<span class="sort-arrow"></span></th>
-        <th class="col-player sorting">Player<span class="sort-arrow"></span></th>
-        <th class="col-dkp sorting">Cost<span class="sort-arrow"></span></th>
-        <th class="col-from sorting">From<span class="sort-arrow"></span></th>
-        <th class="col-date sorting">Date<span class="sort-arrow"></span></th>
-      </tr>
+        <tr>
+          <th class="col-loot sorting">Loot<span class="sort-arrow"></span></th>
+          <th class="col-player sorting">Player<span class="sort-arrow"></span></th>
+          <th class="col-dkp sorting">Cost<span class="sort-arrow"></span></th>
+          <th class="col-from sorting">From<span class="sort-arrow"></span></th>
+          <th class="col-date sorting">Date<span class="sort-arrow"></span></th>
+        </tr>
       </thead>
       <tbody>
-      <#list lootHistory.loothistory.lootentry as row>
-        <tr>
-          <td class="col-loot" data-order="${row.itemname}">
-            <@loot row />
-          </td>
-          <td class="col-player">${row.player}</td>
-          <td class="col-cost">${row.cost?number?abs}</td>
-          <td class="col-from">
-            ${row.zone}: ${row.boss}
-          </td>
-          <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}</td>
-        </tr>
-      </#list>
+        <#list lootHistory.loothistory.lootentry as row>
+          <#if row.deletes=='' && row.deletedby==''>
+            <tr>
+              <td class="col-loot" data-order="${row.itemname}">
+                <@loot row />
+              </td>
+              <td class="col-player">${row.player}</td>
+              <td class="col-cost">${row.cost?number?abs}</td>
+              <td class="col-from">
+                ${row.zone}: ${row.boss}
+              </td>
+              <td class="col-date" data-order="${row.timestamp}">${(row.timestamp?number * 1000)?number_to_datetime}
+              </td>
+            </tr>
+          </#if>
+        </#list>
       </tbody>
     </table>
   </#compress>
 </#macro>
 
 <#macro loot row>
-  <a href="https://classic.wowhead.com/item=${row.itemnumber}" data-wowhead="item=${row.itemnumber}" style="padding-left: 18px"><span>${row.itemname}</span></a>
+  <a href="https://classic.wowhead.com/item=${row.itemnumber}" data-wowhead="item=${row.itemnumber}"
+    style="padding-left: 18px"><span>${row.itemname}</span></a>
 </#macro>
