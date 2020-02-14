@@ -1,5 +1,115 @@
 <loothistory>
     <lootentry>
+        <player>Firefist</player>
+        <itemname>Sabatons of Wrath</itemname>
+        <itemnumber>16965</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1581569981</timestamp>
+        <cost>-6.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wigglz</player>
+        <itemname>Nemesis Boots</itemname>
+        <itemnumber>16927</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1581569923</timestamp>
+        <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Heartstriker</itemname>
+        <itemnumber>19350</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1581569869</timestamp>
+        <cost>-13</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566986</timestamp>
+        <cost>-12.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566983</timestamp>
+        <cost>29.8</cost>
+        <deletes>Whillwinz-1581566735</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Cleavesteamr</player>
+        <itemname>Waistband of Wrath</itemname>
+        <itemnumber>16960</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566962</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tagus</player>
+        <itemname>Waistband of Wrath</itemname>
+        <itemnumber>16960</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566946</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566735</timestamp>
+        <cost>-29.8</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1581566983</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Basola</player>
+        <itemname>Bracers of Ten Storms</itemname>
+        <itemnumber>16943</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1581563112</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Curie</player>
+        <itemname>Bindings of Transcendence</itemname>
+        <itemnumber>16926</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1581563056</timestamp>
+        <cost>-17</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
         <player>Worthlessgg</player>
         <itemname>Head of Onyxia</itemname>
         <itemnumber>18422</itemnumber>
