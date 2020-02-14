@@ -96,7 +96,7 @@
             info: false
           };
 
-          $('#dkpTable').DataTable({ ...options, order: [[0, 'asc']] });
+          $('#dkpTable').DataTable({ ...options, order: [[2, 'desc']] });
           $('#lootHistoryTable').DataTable({ ...options, order: [[4, 'desc']] });
         });
       </script>
