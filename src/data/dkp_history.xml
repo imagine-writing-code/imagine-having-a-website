@@ -1,5 +1,13 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Adyss,Aeonic,Allein,Almidas,Aveda,Basola,Bendaksk,Bigbabyjesùs,Bleys,Bonjwa,Cleavesteamr,Curie,Danielson,Darthplaguiz,Dbags,Dirtbutton,Dominaro,Donutman,Doomhammar,Dots,Dranzdervish,Duress,Durrty,Durumi,Dænerys,Essentia,Firefist,Fulminator,Hauntedmac,Huckit,Imdrood,Itzalljeezy,Ivy,Kerm,Kidon,Kikashie,Lithra,Natpagle,Nolegs,Notnullifer,Randomaction,Ricki,Robthegiant,Sevi,Straysoul,Tagus,Trist,Whillwinz,Wigglz,Worthlessgg,Xanthos,</playerstring>
+        <dkp>-7.1,-8.6,-6,-8,-5.8,-8.2,-7.7,-4.5,-1.4,-5.5,-1.9,-2.8,-3,-0.8,-0.5,-1.4,-0.9,-7,-4.1,-1.8,-9.3,-7,-5.5,-1.3,-0,-4.4,-5.5,-0.9,-4.7,-2.5,-0.7,-2.5,-0.4,-4.5,-4.3,-3.3,-4.8,-0.2,-1.4,-0.4,-8.4,-2,-2.5,-3.7,-0.1,-1.8,-0.8,-8.1,-1.6,-2.3,-4.2,-10%</dkp>
+        <timestamp>1582742079</timestamp>
+        <reason>Weekly Decay</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
         <playerstring>Kikashie,Kidon,Dirtbutton,</playerstring>
         <dkp>2</dkp>
         <timestamp>1582606965</timestamp>
@@ -1588,14 +1596,6 @@
         <dkp>0.3</dkp>
         <timestamp>1580181552</timestamp>
         <reason>Molten Core: Baron Geddon</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Hauntedmac,Essentia,Cleavesteamr,Dbags,Dirtbutton,Donutman,Trist,Durumi,Duress,Aveda,Firefist,Bleys,Bonjwa,Durrty,Dranzdervish,Allein,Danielson,Adyss,Curie,Huckit,Kidon,Basola,Doomhammar,Robthegiant,Xanthos,Kerm,Dots,Wigglz,Fulminator,Darthplaguiz,Bendaksk,Aeonic,Ricki,Almidas,Dominaro,Lithra,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1580181468</timestamp>
-        <reason>Time Interval Bonus</reason>
         <deletes></deletes>
         <deletedby></deletedby>
     </historyentry>
