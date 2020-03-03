@@ -70,6 +70,13 @@
         <lifetimespent>-443</lifetimespent>
     </dkpentry>
     <dkpentry>
+        <player>Capinsano</player>
+        <class>HUNTER</class>
+        <dkp>-2</dkp>
+        <lifetimegained>1</lifetimegained>
+        <lifetimespent>-2</lifetimespent>
+    </dkpentry>
+    <dkpentry>
         <player>Cleavesteamr</player>
         <class>WARRIOR</class>
         <dkp>21.8</dkp>
@@ -231,6 +238,13 @@
         <lifetimespent>-365</lifetimespent>
     </dkpentry>
     <dkpentry>
+        <player>Jarek</player>
+        <class>WARRIOR</class>
+        <dkp>4.3</dkp>
+        <lifetimegained>1</lifetimegained>
+        <lifetimespent>-2</lifetimespent>
+    </dkpentry>
+    <dkpentry>
         <player>Kerm</player>
         <class>PRIEST</class>
         <dkp>55.5</dkp>
@@ -329,6 +343,13 @@
         <lifetimespent>-327.4</lifetimespent>
     </dkpentry>
     <dkpentry>
+        <player>Warmhole</player>
+        <class>MAGE</class>
+        <dkp>-2</dkp>
+        <lifetimegained>0</lifetimegained>
+        <lifetimespent>-2</lifetimespent>
+    </dkpentry>
+    <dkpentry>
         <player>Whillwinz</player>
         <class>SHAMAN</class>
         <dkp>82.3</dkp>
@@ -357,24 +378,10 @@
         <lifetimespent>-111.4</lifetimespent>
     </dkpentry>
     <dkpentry>
-        <player>Capinsano</player>
-        <class>HUNTER</class>
-        <dkp>-2</dkp>
-        <lifetimegained>1</lifetimegained>
-        <lifetimespent>-2</lifetimespent>
-    </dkpentry>
-    <dkpentry>
-        <player>Jarek</player>
-        <class>WARRIOR</class>
-        <dkp>4.3</dkp>
-        <lifetimegained>1</lifetimegained>
-        <lifetimespent>-2</lifetimespent>
-    </dkpentry>
-    <dkpentry>
-        <player>Warmhole</player>
-        <class>MAGE</class>
-        <dkp>-2</dkp>
-        <lifetimegained>0</lifetimegained>
-        <lifetimespent>-2</lifetimespent>
+        <player>Loadheals</player>
+        <class>DRUID</class>
+        <dkp>6.3</dkp>
+        <lifetimegained>6.3</lifetimegained>
+        <lifetimespent>0</lifetimespent>
     </dkpentry>
 </dkptable>
