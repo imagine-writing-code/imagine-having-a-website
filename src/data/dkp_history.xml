@@ -1,5 +1,149 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Altmidas,</playerstring>
+        <dkp>-5.9000000953674</dkp>
+        <timestamp>1583809752</timestamp>
+        <reason>Other - alt</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Almidas,</playerstring>
+        <dkp>5.9000000953674</dkp>
+        <timestamp>1583809748</timestamp>
+        <reason>Other - alt</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Aveda,</playerstring>
+        <dkp>1</dkp>
+        <timestamp>1583809610</timestamp>
+        <reason>DKP Adjust</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Curie,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Xanthos,Duress,Bleys,Donutman,Dranzdervish,Cleavesteamr,Kerm,Loadheals,Durumi,Durrty,Adyss,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Warmhole,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.1</dkp>
+        <timestamp>1583807362</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Curie,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Xanthos,Duress,Bleys,Donutman,Dranzdervish,Cleavesteamr,Kerm,Loadheals,Durumi,Durrty,Adyss,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Warmhole,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0</dkp>
+        <timestamp>1583806976</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Dranzdervish,Cleavesteamr,Adyss,Loadheals,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Wigglz,Darthplaguiz,Dirtbutton,</playerstring>
+        <dkp>1</dkp>
+        <timestamp>1583805959</timestamp>
+        <reason>Time Interval Bonus</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>3.9</dkp>
+        <timestamp>1583805739</timestamp>
+        <reason>Molten Core: Ragnaros</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0</dkp>
+        <timestamp>1583805435</timestamp>
+        <reason>Molten Core: Ragnaros</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.2</dkp>
+        <timestamp>1583804960</timestamp>
+        <reason>Molten Core: Flamewaker Elite</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0</dkp>
+        <timestamp>1583804781</timestamp>
+        <reason>Molten Core: Majordomo Executus</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.3</dkp>
+        <timestamp>1583804547</timestamp>
+        <reason>Molten Core: Firelord</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0</dkp>
+        <timestamp>1583804360</timestamp>
+        <reason>Molten Core: Golemagg the Incinerator</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Durrty,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Cleavesteamr,Adyss,Dirtbutton,Xanthos,Curie,Kerm,Sevi,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Dranzdervish,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.1</dkp>
+        <timestamp>1583804179</timestamp>
+        <reason>Molten Core: Sulfuron Harbinger</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Worthlessgg,Tagus,Hauntedmac,Altmidas,Essentia,Curie,Randomaction,Trist,Allein,Durrty,Basola,Bonjwa,Durumi,Duress,Bleys,Donutman,Aveda,Kerm,Dranzdervish,Dirtbutton,Xanthos,Doomhammar,Cleavesteamr,Adyss,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Sevi,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0</dkp>
+        <timestamp>1583804080</timestamp>
+        <reason>Molten Core: Sulfuron Harbinger</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Dirtbutton,Tagus,Hauntedmac,Xanthos,Essentia,Curie,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Sevi,Duress,Bleys,Donutman,Cleavesteamr,Kerm,Dranzdervish,Durrty,Altmidas,Durumi,Aveda,Adyss,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Worthlessgg,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.1</dkp>
+        <timestamp>1583803526</timestamp>
+        <reason>Molten Core: Firewalker</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Dirtbutton,Tagus,Hauntedmac,Xanthos,Essentia,Curie,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Sevi,Duress,Bleys,Donutman,Cleavesteamr,Kerm,Dranzdervish,Durrty,Altmidas,Durumi,Aveda,Adyss,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Worthlessgg,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.1</dkp>
+        <timestamp>1583803392</timestamp>
+        <reason>Molten Core: Shazzrah</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Dirtbutton,Tagus,Hauntedmac,Xanthos,Essentia,Curie,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Sevi,Duress,Bleys,Donutman,Cleavesteamr,Kerm,Dranzdervish,Durrty,Durumi,Aveda,Adyss,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0</dkp>
+        <timestamp>1583803293</timestamp>
+        <reason>Molten Core: Shazzrah</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
+        <playerstring>Whillwinz,Dirtbutton,Tagus,Hauntedmac,Xanthos,Essentia,Curie,Randomaction,Trist,Allein,Doomhammar,Basola,Bonjwa,Sevi,Duress,Bleys,Donutman,Cleavesteamr,Kerm,Dranzdervish,Durrty,Durumi,Aveda,Adyss,Aeonic,Ricki,Fulminator,Bendaksk,Loadheals,Wigglz,Darthplaguiz,</playerstring>
+        <dkp>0.1</dkp>
+        <timestamp>1583802562</timestamp>
+        <reason>Onyxia's Lair: Firelord</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
         <playerstring>Robthegiant,Imdrood,Essentia,Dranzdervish,Randomaction,Danielson,Durumi,Fulminator,Dominaro,Nolegs,Bendaksk,Aeonic,Ricki,Almidas,Kerm,Xanthos,Curie,Bigbabyjesùs,Sevi,Trist,Adyss,Aveda,Duress,Basola,Bleys,Dirtbutton,Worthlessgg,Whillwinz,Wigglz,Darthplaguiz,Allein,Hauntedmac,Dbags,Tagus,Donutman,Doomhammar,Cleavesteamr,Bonjwa,</playerstring>
         <dkp>1</dkp>
         <timestamp>1583432711</timestamp>
@@ -1452,150 +1596,6 @@
         <dkp>5</dkp>
         <timestamp>1581567734</timestamp>
         <reason>Time Interval Bonus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Worthlessgg,Tagus,Basola,Allein,Cleavesteamr,Randomaction,Huckit,Firefist,Durrty,Donutman,Trist,Duress,Doomhammar,Kidon,Bleys,Durumi,Dirtbutton,Kerm,Aveda,Bonjwa,Adyss,Kikashie,Robthegiant,Dranzdervish,Danielson,Fulminator,Xanthos,Wigglz,Almidas,Lithra,Darthplaguiz,Curie,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>1</dkp>
-        <timestamp>1581566968</timestamp>
-        <reason>Blackwing Lair: Vaelastrasz the Corrupt</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Worthlessgg,Tagus,Basola,Allein,Cleavesteamr,Randomaction,Huckit,Firefist,Durrty,Donutman,Trist,Duress,Doomhammar,Kidon,Bleys,Durumi,Dirtbutton,Kerm,Aveda,Bonjwa,Adyss,Kikashie,Robthegiant,Dranzdervish,Danielson,Fulminator,Xanthos,Wigglz,Almidas,Lithra,Darthplaguiz,Curie,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>0</dkp>
-        <timestamp>1581566610</timestamp>
-        <reason>Blackwing Lair: Vaelastrasz the Corrupt</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Bleys,Huckit,Basola,Allein,Cleavesteamr,Randomaction,Tagus,Firefist,Durrty,Donutman,Trist,Adyss,Doomhammar,Kidon,Worthlessgg,Durumi,Dirtbutton,Kerm,Aveda,Bonjwa,Duress,Kikashie,Robthegiant,Dranzdervish,Danielson,Fulminator,Xanthos,Wigglz,Almidas,Lithra,Darthplaguiz,Curie,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1581563982</timestamp>
-        <reason>Time Interval Bonus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Bleys,Huckit,Basola,Dranzdervish,Randomaction,Fulminator,Almidas,Duress,Durrty,Donutman,Trist,Adyss,Doomhammar,Durumi,Worthlessgg,Danielson,Dirtbutton,Kerm,Aveda,Firefist,Tagus,Kidon,Xanthos,Allein,Cleavesteamr,Bonjwa,Curie,Wigglz,Robthegiant,Lithra,Darthplaguiz,Kikashie,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>0.7</dkp>
-        <timestamp>1581563182</timestamp>
-        <reason>Blackwing Lair: Razorgore the Untamed</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Bleys,Xanthos,Basola,Dranzdervish,Dirtbutton,Curie,Kerm,Duress,Durrty,Donutman,Trist,Adyss,Doomhammar,Durumi,Worthlessgg,Danielson,Randomaction,Kikashie,Aveda,Firefist,Tagus,Kidon,Huckit,Allein,Cleavesteamr,Bonjwa,Fulminator,Wigglz,Robthegiant,Lithra,Darthplaguiz,Almidas,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>0</dkp>
-        <timestamp>1581562961</timestamp>
-        <reason>Blackwing Lair: Razorgore the Untamed</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Worthlessgg,Tagus,Basola,Randomaction,Bonjwa,Allein,Duress,Aveda,Firefist,Donutman,Trist,Adyss,Doomhammar,Cleavesteamr,Dirtbutton,Kidon,Dranzdervish,Robthegiant,Kikashie,Curie,Xanthos,Kerm,Huckit,Danielson,Durumi,Durrty,Fulminator,Wigglz,Bleys,Lithra,Darthplaguiz,Almidas,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>2</dkp>
-        <timestamp>1581560354</timestamp>
-        <reason>On Time Bonus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Adyss,Aeonic,Allein,Almidas,Aveda,Basola,Bendaksk,Bigbabyjesùs,Bleys,Bonjwa,Cleavesteamr,Curie,Danielson,Darthplaguiz,Dbags,Dirtbutton,Dominaro,Donutman,Doomhammar,Dots,Dranzdervish,Duress,Durrty,Durumi,Essentia,Firefist,Fulminator,Hauntedmac,Huckit,Imdrood,Itzalljeezy,Ivy,Kerm,Kidon,Kikashie,Lithra,Natpagle,Notnullifer,Randomaction,Ricki,Robthegiant,Sevi,Straysoul,Tagus,Trist,Whillwinz,Wigglz,Worthlessgg,Xanthos,</playerstring>
-        <dkp>-53.7,-45.4,-34.8,-25.4,-67.9,-78.5,-14.2,-29.8,-17.7,-61.2,-48.6,-61.4,-39.3,-88.6,-37.1,-91.9,-14.6,-45.4,-31.4,-77.8,-84.7,-27.9,-39.4,-12.4,-68.2,-41.8,-52.6,-34.7,-23.4,-31,-37.3,-17.2,-14.2,-34.7,-22.7,-24.8,-7,-16.2,-66.6,-66.6,-42.5,-55,-5.7,-11.1,-14.2,-78.3,-84.6,-2,-57,-80%</dkp>
-        <timestamp>1581400263</timestamp>
-        <reason>Weekly Decay</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Sevi,Kidon,Allein,Danielson,Adyss,Basola,Durumi,Huckit,Cleavesteamr,Bleys,Doomhammar,Darthplaguiz,Lithra,Wigglz,Dots,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>2.6</dkp>
-        <timestamp>1581396101</timestamp>
-        <reason>Onyxia's Lair: Onyxia</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Sevi,Kidon,Allein,Danielson,Adyss,Basola,Durumi,Huckit,Cleavesteamr,Bleys,Doomhammar,Darthplaguiz,Lithra,Wigglz,Dots,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>0</dkp>
-        <timestamp>1581395862</timestamp>
-        <reason>Onyxia's Lair: Onyxia</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Sevi,</playerstring>
-        <dkp>26.200000762939</dkp>
-        <timestamp>1581395318</timestamp>
-        <reason>Other - wait list MC</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Aveda,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Lithra,Itzalljeezy,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,</playerstring>
-        <dkp>-2</dkp>
-        <timestamp>1581395295</timestamp>
-        <reason>Delete Entry</reason>
-        <deletes>Whillwinz-1581387957</deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Sevi,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>2</dkp>
-        <timestamp>1581395205</timestamp>
-        <reason>Raid Completion Bonus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Sevi,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1581395185</timestamp>
-        <reason>Time Interval Bonus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Aveda,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Lithra,Kikashie,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>6.6</dkp>
-        <timestamp>1581394389</timestamp>
-        <reason>Molten Core: Ragnaros</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Aveda,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Lithra,Kikashie,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>0</dkp>
-        <timestamp>1581394063</timestamp>
-        <reason>Molten Core: Ragnaros</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Aveda,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Lithra,Kikashie,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>3.6</dkp>
-        <timestamp>1581393428</timestamp>
-        <reason>Molten Core: Majordomo Executus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Aveda,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Lithra,Kikashie,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>0</dkp>
-        <timestamp>1581393232</timestamp>
-        <reason>Molten Core: Majordomo Executus</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Worthlessgg,Dbags,Hauntedmac,Tagus,Essentia,Randomaction,Trist,Bonjwa,Dirtbutton,Donutman,Durrty,Firefist,Duress,Aveda,Kidon,Allein,Danielson,Adyss,Basola,Bleys,Huckit,Cleavesteamr,Durumi,Doomhammar,Darthplaguiz,Lithra,Kikashie,Dots,Wigglz,Kerm,Dranzdervish,Robthegiant,Xanthos,Curie,Bendaksk,Aeonic,Ricki,Almidas,Itzalljeezy,</playerstring>
-        <dkp>0.5</dkp>
-        <timestamp>1581392931</timestamp>
-        <reason>Molten Core: Lava Annihilator</reason>
         <deletes></deletes>
         <deletedby></deletedby>
     </historyentry>
