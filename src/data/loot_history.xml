@@ -1,5 +1,27 @@
 <loothistory>
     <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Eye of Sulfuras</itemname>
+        <itemnumber>17204</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1583965455</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Eye of Sulfuras</itemname>
+        <itemnumber>17204</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1583965452</timestamp>
+        <cost>7</cost>
+        <deletes>Ricki-1583805651</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
         <player>Sevi</player>
         <itemname>Ring of Binding</itemname>
         <itemnumber>18813</itemnumber>
@@ -11,17 +33,6 @@
         <deletedby></deletedby>
     </lootentry>
     <lootentry>
-        <player>Aveda</player>
-        <itemname>Bloodfang Pants</itemname>
-        <itemnumber>16909</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Ragnaros</boss>
-        <timestamp>1583805651</timestamp>
-        <cost>-47</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
         <player>Whillwinz</player>
         <itemname>Eye of Sulfuras</itemname>
         <itemnumber>17204</itemnumber>
@@ -29,6 +40,17 @@
         <boss>Ragnaros</boss>
         <timestamp>1583805651</timestamp>
         <cost>-7</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1583965452</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aveda</player>
+        <itemname>Bloodfang Pants</itemname>
+        <itemnumber>16909</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1583805651</timestamp>
+        <cost>-47</cost>
         <deletes></deletes>
         <deletedby></deletedby>
     </lootentry>
@@ -2176,27 +2198,5 @@
         <cost>-10</cost>
         <deletes></deletes>
         <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Kerm</player>
-        <itemname>The Eye of Divinity</itemname>
-        <itemnumber>18646</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Majordomo Executus</boss>
-        <timestamp>1581393494</timestamp>
-        <cost>97.1</cost>
-        <deletes>Ricki-1581393420</deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Kerm</player>
-        <itemname>The Eye of Divinity</itemname>
-        <itemnumber>18646</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Majordomo Executus</boss>
-        <timestamp>1581393420</timestamp>
-        <cost>-97.1</cost>
-        <deletes></deletes>
-        <deletedby>Whillwinz-1581393494</deletedby>
     </lootentry>
 </loothistory>

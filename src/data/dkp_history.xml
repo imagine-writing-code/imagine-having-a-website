@@ -1,5 +1,13 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Adyss,Aeonic,Allein,Almidas,Aveda,Basola,Bendaksk,Bigbabyjesùs,Bleys,Bonjwa,Cleavesteamr,Curie,Danielson,Darthplaguiz,Dbags,Dirtbutton,Dominaro,Donutman,Doomhammar,Dots,Dranzdervish,Duress,Durrty,Durumi,Dænerys,Essentia,Firefist,Fulminator,Hauntedmac,Huckit,Imdrood,Itzalljeezy,Ivy,Jarek,Kerm,Kidon,Kikashie,Lithra,Loadheals,Natpagle,Nolegs,Notnullifer,Randomaction,Ricki,Robthegiant,Sevi,Straysoul,Tagus,Trist,Whillwinz,Wigglz,Xanthos,</playerstring>
+        <dkp>-9.7,-3.6,-4.5,-10.4,-1,-4.3,-0.6,-4.4,-2.1,-0.5,-4,-2.5,-4.6,-2.6,-3.1,-3.9,-3.4,-9.4,-5.3,-2.6,-1.5,-9.6,-5.8,-4.3,-0,-2.4,-4.4,-4.2,-6.1,-2,-1.2,-1.1,-0.3,-0.4,-5.2,-3.3,-0.3,-0.4,-0.8,-0.1,-1.3,-0.3,-4.8,-3.5,-2.9,-1.8,-0.1,-4.2,-4.4,-9.9,-2.7,-7.3,-10%</dkp>
+        <timestamp>1583965481</timestamp>
+        <reason>Weekly Decay</reason>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </historyentry>
+    <historyentry>
         <playerstring>Altmidas,</playerstring>
         <dkp>-5.9000000953674</dkp>
         <timestamp>1583809752</timestamp>
@@ -1588,14 +1596,6 @@
         <dkp>0</dkp>
         <timestamp>1581569779</timestamp>
         <reason>Blackwing Lair: Broodlord Lashlayer</reason>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </historyentry>
-    <historyentry>
-        <playerstring>Whillwinz,Dbags,Essentia,Hauntedmac,Worthlessgg,Tagus,Basola,Allein,Cleavesteamr,Randomaction,Huckit,Firefist,Durrty,Donutman,Trist,Duress,Doomhammar,Kidon,Bleys,Durumi,Dirtbutton,Danielson,Aveda,Bonjwa,Adyss,Kikashie,Robthegiant,Dranzdervish,Kerm,Fulminator,Xanthos,Wigglz,Almidas,Lithra,Darthplaguiz,Curie,Dominaro,Ricki,Bendaksk,Aeonic,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1581567734</timestamp>
-        <reason>Time Interval Bonus</reason>
         <deletes></deletes>
         <deletedby></deletedby>
     </historyentry>
