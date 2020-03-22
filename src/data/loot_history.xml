@@ -2199,4 +2199,2776 @@
         <deletes></deletes>
         <deletedby></deletedby>
     </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Sabatons of Wrath</itemname>
+        <itemnumber>16965</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1582177979</timestamp>
+        <cost>-7.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Bracers of Arcane Accuracy</itemname>
+        <itemnumber>19374</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1582177939</timestamp>
+        <cost>-61</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Cloak of Draconic Might</itemname>
+        <itemnumber>19436</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1582173365</timestamp>
+        <cost>-45</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Dragonstalker's Belt</itemname>
+        <itemnumber>16936</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1582173066</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Dragonstalker's Belt</itemname>
+        <itemnumber>16936</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1582173063</timestamp>
+        <cost>5</cost>
+        <deletes>Whillwinz-1582173031</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Legplates of Wrath</itemname>
+        <itemnumber>16962</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1582173059</timestamp>
+        <cost>-7.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Legplates of Wrath</itemname>
+        <itemnumber>16962</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1582173056</timestamp>
+        <cost>5</cost>
+        <deletes>Whillwinz-1582169450</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Dragonstalker's Belt</itemname>
+        <itemnumber>16936</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1582173031</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1582173063</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Robthegiant</player>
+        <itemname>Stormrage Belt</itemname>
+        <itemnumber>16903</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1582172945</timestamp>
+        <cost>-31.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dirtbutton</player>
+        <itemname>Pendant of the Fallen Dragon</itemname>
+        <itemnumber>19371</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1582172923</timestamp>
+        <cost>-16.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dominaro</player>
+        <itemname>Netherwind Bindings</itemname>
+        <itemnumber>16918</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1582171537</timestamp>
+        <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Dragonstalker's Bracers</itemname>
+        <itemnumber>16935</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1582171472</timestamp>
+        <cost>-14.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Legplates of Wrath</itemname>
+        <itemnumber>16962</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1582169450</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1582173056</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aveda</player>
+        <itemname>Perdition's Blade</itemname>
+        <itemnumber>18816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1582169384</timestamp>
+        <cost>-17.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>Leggings of Transcendence</itemname>
+        <itemnumber>16922</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1582169296</timestamp>
+        <cost>-40</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Dragon's Blood Cape</itemname>
+        <itemnumber>17107</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1582169266</timestamp>
+        <cost>-18</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bigbabyjesùs</player>
+        <itemname>Sash of Whispered Secrets</itemname>
+        <itemnumber>18809</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1582168606</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1582168173</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Blastershot Launcher</itemname>
+        <itemnumber>17072</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1582168122</timestamp>
+        <cost>-8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Helm of the Lifegiver</itemname>
+        <itemnumber>18870</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1582167782</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dænerys</player>
+        <itemname>Felheart Slippers</itemname>
+        <itemnumber>16803</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1582166954</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Gloves</itemname>
+        <itemnumber>16852</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1582166935</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dominaro</player>
+        <itemname>Arcanist Mantle</itemname>
+        <itemnumber>16797</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1582166624</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Flameguard Gauntlets</itemname>
+        <itemnumber>19143</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1582166029</timestamp>
+        <cost>-8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Sevi</player>
+        <itemname>Gloves of Prophecy</itemname>
+        <itemnumber>16812</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1582165461</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Sabatons of Might</itemname>
+        <itemnumber>16862</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1582165433</timestamp>
+        <cost>-5.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lithra</player>
+        <itemname>Felheart Pants</itemname>
+        <itemnumber>16810</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1582164971</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Legplates of Might</itemname>
+        <itemnumber>16867</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1582164940</timestamp>
+        <cost>-5.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Donutman</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1582005616</timestamp>
+        <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Ancient Cornerstone Grimoire</itemname>
+        <itemnumber>17067</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1582005573</timestamp>
+        <cost>-5.8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Dragonstalker's Helm</itemname>
+        <itemnumber>16939</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1582005509</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lithra</player>
+        <itemname>Ebony Flame Gloves</itemname>
+        <itemnumber>19407</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1582004461</timestamp>
+        <cost>-18</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lithra</player>
+        <itemname>Ebony Flame Gloves</itemname>
+        <itemnumber>19407</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1582004458</timestamp>
+        <cost>32</cost>
+        <deletes>Whillwinz-1582003564</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Styleen's Impeding Scarab</itemname>
+        <itemnumber>19431</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1582004232</timestamp>
+        <cost>-8.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Xanthos</player>
+        <itemname>Handguards of Transcendence</itemname>
+        <itemnumber>16920</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1582004191</timestamp>
+        <cost>-50</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lithra</player>
+        <itemname>Ebony Flame Gloves</itemname>
+        <itemnumber>19407</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1582003564</timestamp>
+        <cost>-32</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1582004458</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dirtbutton</player>
+        <itemname>Rejuvenating Gem</itemname>
+        <itemnumber>19395</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1582003505</timestamp>
+        <cost>-59</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Bloodfang Gloves</itemname>
+        <itemnumber>16907</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1582000011</timestamp>
+        <cost>-6</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Natural Alignment Crystal</itemname>
+        <itemnumber>19344</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1581999901</timestamp>
+        <cost>-7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Firefist</player>
+        <itemname>Legplates of Wrath</itemname>
+        <itemnumber>16962</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581997654</timestamp>
+        <cost>-7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Cloak of the Shrouded Mists</itemname>
+        <itemnumber>17102</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581997586</timestamp>
+        <cost>-33.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Robthegiant</player>
+        <itemname>Choker of the Fire Lord</itemname>
+        <itemnumber>18814</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581997533</timestamp>
+        <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Spinal Reaper</itemname>
+        <itemnumber>17104</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581997454</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Wristguards of True Flight</itemname>
+        <itemnumber>18812</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581996652</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Ancient Petrified Leaf</itemname>
+        <itemnumber>18703</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581996598</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Blastershot Launcher</itemname>
+        <itemnumber>17072</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581996280</timestamp>
+        <cost>-18</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Pauldrons of Might</itemname>
+        <itemnumber>16868</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1581995891</timestamp>
+        <cost>-6.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wigglz</player>
+        <itemname>Sorcerous Dagger</itemname>
+        <itemnumber>18878</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1581995139</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Sevi</player>
+        <itemname>Circlet of Prophecy</itemname>
+        <itemnumber>16813</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1581994011</timestamp>
+        <cost>-14</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Brutality Blade</itemname>
+        <itemnumber>18832</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1581993959</timestamp>
+        <cost>-27.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Giantstalker's Boots</itemname>
+        <itemnumber>16849</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1581992457</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Nightslayer Gloves</itemname>
+        <itemnumber>16826</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1581992424</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Striker's Mark</itemname>
+        <itemnumber>17069</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581991427</timestamp>
+        <cost>-22</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Cleavesteamr</player>
+        <itemname>Quick Strike Ring</itemname>
+        <itemnumber>18821</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581991381</timestamp>
+        <cost>-20.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Earthfury Legguards</itemname>
+        <itemnumber>16843</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581991332</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Earthfury Boots</itemname>
+        <itemnumber>16837</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1581991066</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Firefist</player>
+        <itemname>Sabatons of Wrath</itemname>
+        <itemnumber>16965</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1581569981</timestamp>
+        <cost>-6.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wigglz</player>
+        <itemname>Nemesis Boots</itemname>
+        <itemnumber>16927</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1581569923</timestamp>
+        <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Heartstriker</itemname>
+        <itemnumber>19350</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1581569869</timestamp>
+        <cost>-13</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566986</timestamp>
+        <cost>-12.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566983</timestamp>
+        <cost>29.8</cost>
+        <deletes>Whillwinz-1581566735</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Cleavesteamr</player>
+        <itemname>Waistband of Wrath</itemname>
+        <itemnumber>16960</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566962</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tagus</player>
+        <itemname>Waistband of Wrath</itemname>
+        <itemnumber>16960</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566946</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1581566735</timestamp>
+        <cost>-29.8</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1581566983</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Basola</player>
+        <itemname>Bracers of Ten Storms</itemname>
+        <itemnumber>16943</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1581563112</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Curie</player>
+        <itemname>Bindings of Transcendence</itemname>
+        <itemnumber>16926</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1581563056</timestamp>
+        <cost>-17</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1581396093</timestamp>
+        <cost>-80</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Ancient Cornerstone Grimoire</itemname>
+        <itemnumber>17067</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1581395995</timestamp>
+        <cost>-10.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Essentia</player>
+        <itemname>Stormrage Cover</itemname>
+        <itemnumber>16900</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1581395931</timestamp>
+        <cost>-10.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Bonereaver's Edge</itemname>
+        <itemnumber>17076</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581394373</timestamp>
+        <cost>-80.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Dragonstalker's Legguards</itemname>
+        <itemnumber>16938</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581394299</timestamp>
+        <cost>-35.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tagus</player>
+        <itemname>Perdition's Blade</itemname>
+        <itemnumber>18816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581394265</timestamp>
+        <cost>-56</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Duress</player>
+        <itemname>Bloodfang Pants</itemname>
+        <itemnumber>16909</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581394161</timestamp>
+        <cost>-20.8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Firefist</player>
+        <itemname>Onslaught Girdle</itemname>
+        <itemnumber>19137</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1581394089</timestamp>
+        <cost>-70</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Core Hound Tooth</itemname>
+        <itemnumber>18805</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393503</timestamp>
+        <cost>-64</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Core Hound Tooth</itemname>
+        <itemnumber>18805</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393500</timestamp>
+        <cost>10</cost>
+        <deletes>Ricki-1581393273</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>The Eye of Divinity</itemname>
+        <itemnumber>18646</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393497</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>The Eye of Divinity</itemname>
+        <itemnumber>18646</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393494</timestamp>
+        <cost>97.1</cost>
+        <deletes>Ricki-1581393420</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>The Eye of Divinity</itemname>
+        <itemnumber>18646</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393420</timestamp>
+        <cost>-97.1</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1581393494</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lithra</player>
+        <itemname>Sash of Whispered Secrets</itemname>
+        <itemnumber>18809</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393330</timestamp>
+        <cost>-35</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581393302</timestamp>
+        <cost>11</cost>
+        <deletes>Ricki-1581392811</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Core Hound Tooth</itemname>
+        <itemnumber>18805</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1581393273</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1581393500</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Arcanist Bindings</itemname>
+        <itemnumber>16799</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lava Annihilator</boss>
+        <timestamp>1581393020</timestamp>
+        <cost>-66</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Arcanist Robes</itemname>
+        <itemnumber>16798</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581392994</timestamp>
+        <cost>62.8</cost>
+        <deletes>Ricki-1581392753</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581392908</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581392811</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1581393302</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Arcanist Robes</itemname>
+        <itemnumber>16798</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581392753</timestamp>
+        <cost>-62.8</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1581392994</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Donutman</player>
+        <itemname>Flameguard Gauntlets</itemname>
+        <itemnumber>19143</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1581392703</timestamp>
+        <cost>-35</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Robe of Volatile Power</itemname>
+        <itemnumber>19145</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1581392274</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Xanthos</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1581392229</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Giantstalker's Bracers</itemname>
+        <itemnumber>16850</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1581391291</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Boots of Prophecy</itemname>
+        <itemnumber>16811</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1581391027</timestamp>
+        <cost>-21.6</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>Seal of the Archmagus</itemname>
+        <itemnumber>17110</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1581390615</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Huckit</player>
+        <itemname>Brutality Blade</itemname>
+        <itemnumber>18832</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1581389768</timestamp>
+        <cost>-21.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Itzalljeezy</player>
+        <itemname>Gutgore Ripper</itemname>
+        <itemnumber>17071</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1581389720</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Earthfury Helmet</itemname>
+        <itemnumber>16842</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1581389563</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Earthfury Gauntlets</itemname>
+        <itemnumber>16839</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1581389132</timestamp>
+        <cost>-26</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Almidas</player>
+        <itemname>Ring of Spell Power</itemname>
+        <itemnumber>19147</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1581389126</timestamp>
+        <cost>-73</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aveda</player>
+        <itemname>Nightslayer Belt</itemname>
+        <itemnumber>16827</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581388617</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Huckit</player>
+        <itemname>Nightslayer Pants</itemname>
+        <itemnumber>16822</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581388407</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Giantstalker's Leggings</itemname>
+        <itemnumber>16847</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581388347</timestamp>
+        <cost>-36.7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Earthshaker</itemname>
+        <itemnumber>17073</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1581388224</timestamp>
+        <cost>-21</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Almidas</player>
+        <itemname>Arcanist Boots</itemname>
+        <itemnumber>16800</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1581387880</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Ancient Cornerstone Grimoire</itemname>
+        <itemnumber>17067</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580955056</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Netherwind Crown</itemname>
+        <itemnumber>16914</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580955014</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580954951</timestamp>
+        <cost>-28.7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580782359</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Bloodfang Hood</itemname>
+        <itemnumber>16908</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580782242</timestamp>
+        <cost>-16.8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Eskhandar's Collar</itemname>
+        <itemnumber>18205</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580782163</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Vis'kag the Bloodletter</itemname>
+        <itemnumber>17075</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580782091</timestamp>
+        <cost>-80.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Crown of Destruction</itemname>
+        <itemnumber>18817</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580357214</timestamp>
+        <cost>-42</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Crown of Destruction</itemname>
+        <itemnumber>18817</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580357211</timestamp>
+        <cost>20</cost>
+        <deletes>Ricki-1580357092</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Crown of Destruction</itemname>
+        <itemnumber>18817</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580357092</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby>Ricki-1580357211</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Onslaught Girdle</itemname>
+        <itemnumber>19137</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580356994</timestamp>
+        <cost>-86</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tagus</player>
+        <itemname>Aged Core Leather Gloves</itemname>
+        <itemnumber>18823</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580356257</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Robthegiant</player>
+        <itemname>Cenarion Vestments</itemname>
+        <itemnumber>16833</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580356197</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wigglz</player>
+        <itemname>Felheart Robes</itemname>
+        <itemnumber>16809</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580356107</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Cauterizing Band</itemname>
+        <itemnumber>19140</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580356039</timestamp>
+        <cost>-73.7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Randomaction</player>
+        <itemname>Fireguard Shoulders</itemname>
+        <itemnumber>19139</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580355993</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Ancient Petrified Leaf</itemname>
+        <itemnumber>18703</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580355944</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Itzalljeezy</player>
+        <itemname>Nightslayer Bracelets</itemname>
+        <itemnumber>16825</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580355875</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Epaulets</itemname>
+        <itemnumber>16848</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1580354889</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Donutman</player>
+        <itemname>Wristguards of Stability</itemname>
+        <itemnumber>19146</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1580354837</timestamp>
+        <cost>-13</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Robthegiant</player>
+        <itemname>Cenarion Gloves</itemname>
+        <itemnumber>16831</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1580354028</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wigglz</player>
+        <itemname>Felheart Shoulder Pads</itemname>
+        <itemnumber>16807</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1580353309</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Duress</player>
+        <itemname>Nightslayer Bracelets</itemname>
+        <itemnumber>16825</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1580352909</timestamp>
+        <cost>-19.8</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Gutgore Ripper</itemname>
+        <itemnumber>17071</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1580352404</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Cleavesteamr</player>
+        <itemname>Flameguard Gauntlets</itemname>
+        <itemnumber>19143</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1580352323</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Huckit</player>
+        <itemname>Nightslayer Belt</itemname>
+        <itemnumber>16827</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1580351837</timestamp>
+        <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Wristguards of Stability</itemname>
+        <itemnumber>19146</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1580351473</timestamp>
+        <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Earthfury Bracers</itemname>
+        <itemnumber>16840</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1580351141</timestamp>
+        <cost>-12</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Xanthos</player>
+        <itemname>Pants of Prophecy</itemname>
+        <itemnumber>16814</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1580351044</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Earthfury Legguards</itemname>
+        <itemnumber>16843</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1580350975</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Obsidian Edged Blade</itemname>
+        <itemnumber>18822</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1580350905</timestamp>
+        <cost>-35</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aeonic</player>
+        <itemname>Ring of Spell Power</itemname>
+        <itemnumber>19147</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1580350494</timestamp>
+        <cost>-69.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580258840</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580258837</timestamp>
+        <cost>15</cost>
+        <deletes>Ricki-1580185882</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Huckit</player>
+        <itemname>Bloodfang Hood</itemname>
+        <itemnumber>16908</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580187220</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Duress</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1580187184</timestamp>
+        <cost>-62</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Arcanist Gloves</itemname>
+        <itemnumber>16801</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ripscale</boss>
+        <timestamp>1580186442</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185882</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1580258837</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185879</timestamp>
+        <cost>10</cost>
+        <deletes>Ricki-1580185736</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Cloak of the Shrouded Mists</itemname>
+        <itemnumber>17102</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185866</timestamp>
+        <cost>-35</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Cloak of the Shrouded Mists</itemname>
+        <itemnumber>17102</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185863</timestamp>
+        <cost>10</cost>
+        <deletes>Ricki-1580185514</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Fulminator</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185736</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby>Ricki-1580185879</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185654</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Cloak of the Shrouded Mists</itemname>
+        <itemnumber>17102</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1580185514</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby>Ricki-1580185863</deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Robthegiant</player>
+        <itemname>Wild Growth Spaulders</itemname>
+        <itemnumber>18810</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Flamewaker Healer</boss>
+        <timestamp>1580184677</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Curie</player>
+        <itemname>The Eye of Divinity</itemname>
+        <itemnumber>18646</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1580184504</timestamp>
+        <cost>-58</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kidon</player>
+        <itemname>Nightslayer Chestpiece</itemname>
+        <itemnumber>16820</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1580184168</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Donutman</player>
+        <itemname>Breastplate of Might</itemname>
+        <itemnumber>16865</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1580184119</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Robthegiant</player>
+        <itemname>Staff of Dominance</itemname>
+        <itemnumber>18842</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1580184047</timestamp>
+        <cost>-50</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Nightslayer Shoulder Pads</itemname>
+        <itemnumber>16823</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1580183464</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Belt</itemname>
+        <itemnumber>16851</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1580182769</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Huckit</player>
+        <itemname>Nightslayer Boots</itemname>
+        <itemnumber>16824</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1580182394</timestamp>
+        <cost>-18</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bleys</player>
+        <itemname>Earthfury Epaulets</itemname>
+        <itemnumber>16844</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1580181500</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dominaro</player>
+        <itemname>Arcanist Crown</itemname>
+        <itemnumber>16795</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1580180524</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Brutality Blade</itemname>
+        <itemnumber>18832</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1580180341</timestamp>
+        <cost>-31</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Gloves of Prophecy</itemname>
+        <itemnumber>16812</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1580179622</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Sabatons of Might</itemname>
+        <itemnumber>16862</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1580179558</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Sabatons of the Flamewalker</itemname>
+        <itemnumber>19144</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1580178916</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Arcanist Boots</itemname>
+        <itemnumber>16800</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1580178693</timestamp>
+        <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Donutman</player>
+        <itemname>Gauntlets of Might</itemname>
+        <itemnumber>16863</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1580178582</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Helm of Wrath</itemname>
+        <itemnumber>16963</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579573302</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Cleavesteamr</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18422</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579573226</timestamp>
+        <cost>-50</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dranzdervish</player>
+        <itemname>Salamander Scale Pants</itemname>
+        <itemnumber>18875</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1579231226</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Randomaction</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18423</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579151972</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dranzdervish</player>
+        <itemname>Ancient Cornerstone Grimoire</itemname>
+        <itemnumber>17067</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579151810</timestamp>
+        <cost>-12</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Bloodfang Hood</itemname>
+        <itemnumber>16908</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1579151736</timestamp>
+        <cost>-30</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Xanthos</player>
+        <itemname>The Eye of Divinity</itemname>
+        <itemnumber>18646</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1579150147</timestamp>
+        <cost>-41.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dominaro</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1579150047</timestamp>
+        <cost>-41.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dirtbutton</player>
+        <itemname>Malistar's Defender</itemname>
+        <itemnumber>17106</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1579149617</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Essentia</player>
+        <itemname>Stormrage Legguards</itemname>
+        <itemnumber>16901</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1579149567</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Finkle's Lava Dredger</itemname>
+        <itemnumber>18803</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1579148119</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Natpagle</player>
+        <itemname>Azuresong Mageblade</itemname>
+        <itemnumber>17103</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1579147187</timestamp>
+        <cost>-34.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Nightslayer Chestpiece</itemname>
+        <itemnumber>16820</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1579147037</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1579146444</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Essentia</player>
+        <itemname>Wristguards of Stability</itemname>
+        <itemnumber>19146</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1579146354</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Darthplaguiz</player>
+        <itemname>Felheart Bracers</itemname>
+        <itemnumber>16804</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1579145450</timestamp>
+        <cost>-16</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aveda</player>
+        <itemname>Nightslayer Boots</itemname>
+        <itemnumber>16824</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1579145293</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Almidas</player>
+        <itemname>Arcanist Gloves</itemname>
+        <itemnumber>16801</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1579145216</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Earthfury Epaulets</itemname>
+        <itemnumber>16844</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Baron Geddon</boss>
+        <timestamp>1579144645</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Giantstalker's Belt</itemname>
+        <itemnumber>16851</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1579144245</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Obsidian Edged Blade</itemname>
+        <itemnumber>18822</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1579143444</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Gutgore Ripper</itemname>
+        <itemnumber>17071</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1579143182</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Danielson</player>
+        <itemname>Giantstalker's Helmet</itemname>
+        <itemnumber>16846</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1579143123</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>Gloves of Prophecy</itemname>
+        <itemnumber>16812</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Gehennas</boss>
+        <timestamp>1579142273</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Huckit</player>
+        <itemname>Striker's Mark</itemname>
+        <itemnumber>17069</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1579141750</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Aged Core Leather Gloves</itemname>
+        <itemnumber>18823</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Magmadar</boss>
+        <timestamp>1579141651</timestamp>
+        <cost>-10</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Wristguards of Stability</itemname>
+        <itemnumber>19146</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1579141368</timestamp>
+        <cost>-17</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Almidas</player>
+        <itemname>Netherwind Pants</itemname>
+        <itemnumber>16915</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554492</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Stormrage Legguards</itemname>
+        <itemnumber>16901</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554472</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aeonic</player>
+        <itemname>Choker of the Fire Lord</itemname>
+        <itemnumber>18814</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554374</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Donutman</player>
+        <itemname>Spinal Reaper</itemname>
+        <itemnumber>17104</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554347</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tagus</player>
+        <itemname>Wristguards of True Flight</itemname>
+        <itemnumber>18812</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554314</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Ancient Petrified Leaf</itemname>
+        <itemnumber>18703</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554282</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Darthplaguiz</player>
+        <itemname>Staff of Dominance</itemname>
+        <itemnumber>18842</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554256</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Giantstalker's Breastplate</itemname>
+        <itemnumber>16845</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554233</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Giantstalker's Epaulets</itemname>
+        <itemnumber>16848</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554145</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Pauldrons of Might</itemname>
+        <itemnumber>16868</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554117</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aeonic</player>
+        <itemname>Arcanist Bindings</itemname>
+        <itemnumber>16799</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578554057</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Darthplaguiz</player>
+        <itemname>Felheart Slippers</itemname>
+        <itemnumber>16803</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553982</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Arcanist Gloves</itemname>
+        <itemnumber>16801</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553957</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Earthfury Epaulets</itemname>
+        <itemnumber>16844</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553870</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Darthplaguiz</player>
+        <itemname>Felheart Shoulder Pads</itemname>
+        <itemnumber>16807</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553847</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>Vambraces of Prophecy</itemname>
+        <itemnumber>16819</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553626</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Circlet of Prophecy</itemname>
+        <itemnumber>16813</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553588</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Brutality Blade</itemname>
+        <itemnumber>18832</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553536</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Giantstalker's Helmet</itemname>
+        <itemnumber>16846</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553505</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Belt of Might</itemname>
+        <itemnumber>16864</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553427</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Basola</player>
+        <itemname>Earthfury Gauntlets</itemname>
+        <itemnumber>16839</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553393</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durumi</player>
+        <itemname>Giantstalker's Boots</itemname>
+        <itemnumber>16849</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553369</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Arcanist Leggings</itemname>
+        <itemnumber>16796</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553326</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Randomaction</player>
+        <itemname>Cenarion Leggings</itemname>
+        <itemnumber>16835</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553293</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Basola</player>
+        <itemname>Deep Earth Spaulders</itemname>
+        <itemnumber>18829</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553258</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Worthlessgg</player>
+        <itemname>Earthfury Boots</itemname>
+        <itemnumber>16837</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Lucifron</boss>
+        <timestamp>1578553219</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18423</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1578035641</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Stormrage Cover</itemname>
+        <itemnumber>16900</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995229</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Choker of the Fire Lord</itemname>
+        <itemnumber>18814</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995188</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Leggings of Transcendence</itemname>
+        <itemnumber>16922</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995173</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995158</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Earthfury Belt</itemname>
+        <itemnumber>16838</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995136</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Firefist</player>
+        <itemname>Breastplate of Might</itemname>
+        <itemnumber>16865</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995124</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>The Eye of Divinity</itemname>
+        <itemnumber>18646</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995101</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Spinal Reaper</itemname>
+        <itemnumber>17104</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995077</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Basola</player>
+        <itemname>Giantstalker's Gloves</itemname>
+        <itemnumber>16852</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995058</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Aveda</player>
+        <itemname>Aged Core Leather Gloves</itemname>
+        <itemnumber>18823</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995023</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dranzdervish</player>
+        <itemname>Cenarion Helm</itemname>
+        <itemnumber>16834</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577995008</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kikashie</player>
+        <itemname>Circlet of Prophecy</itemname>
+        <itemnumber>16813</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994993</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bebop</player>
+        <itemname>Malistar's Defender</itemname>
+        <itemnumber>17106</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994960</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Duress</player>
+        <itemname>Nightslayer Gloves</itemname>
+        <itemnumber>16826</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994947</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dirtbutton</player>
+        <itemname>Earthfury Bracers</itemname>
+        <itemnumber>16840</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994931</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Choker of Enlightenment</itemname>
+        <itemnumber>17109</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994914</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Crimson Shocker</itemname>
+        <itemnumber>17077</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994899</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Arcanist Belt</itemname>
+        <itemnumber>16802</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577994874</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Sevi</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816236</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Breastplate of Might</itemname>
+        <itemnumber>16865</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816236</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577815943</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Staff of Dominance</itemname>
+        <itemnumber>18842</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816230</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577815933</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Villagebike</player>
+        <itemname>Leggings of Transcendence</itemname>
+        <itemnumber>16922</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816225</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577816182</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Whillwinz</player>
+        <itemname>Legplates of Ten Storms</itemname>
+        <itemnumber>16946</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816220</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577815981</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Firefist</player>
+        <itemname>Belt of Might</itemname>
+        <itemnumber>16864</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816205</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Perdition's Blade</itemname>
+        <itemnumber>18816</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816201</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Sevi</player>
+        <itemname>Seal of the Archmagus</itemname>
+        <itemnumber>17110</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816198</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Cenarion Gloves</itemname>
+        <itemnumber>16831</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816194</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Cenarion Spaulders</itemname>
+        <itemnumber>16836</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816187</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577815881</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dirtbutton</player>
+        <itemname>Aurastone Hammer</itemname>
+        <itemnumber>17105</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816184</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577815826</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dominaro</player>
+        <itemname>Netherwind Crown</itemname>
+        <itemnumber>16914</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816175</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577816007</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Ancient Cornerstone Grimoire</itemname>
+        <itemnumber>17067</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816172</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577816014</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Head of Onyxia</itemname>
+        <itemnumber>18423</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816171</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bonjwa</player>
+        <itemname>Heavy Dark Iron Ring</itemname>
+        <itemnumber>18879</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577816166</timestamp>
+        <cost>0</cost>
+        <deletes>Whillwinz-1577816073</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Trist</player>
+        <itemname>Nightslayer Cover</itemname>
+        <itemnumber>16821</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577815777</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ivy</player>
+        <itemname>Cenarion Leggings</itemname>
+        <itemnumber>16835</itemnumber>
+        <zone>Onyxia's Lair</zone>
+        <boss>Onyxia</boss>
+        <timestamp>1577815668</timestamp>
+        <cost>0</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
 </loothistory>
