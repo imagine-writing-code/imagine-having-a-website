@@ -1,5 +1,269 @@
 <loothistory>
     <lootentry>
+        <player>Dots</player>
+        <itemname>Head of Nefarian</itemname>
+        <itemnumber>19002</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1594867792</timestamp>
+        <cost>-3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kerm</player>
+        <itemname>Lok'amir il Romathis</itemname>
+        <itemnumber>19360</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1594867721</timestamp>
+        <cost>-131.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Imdrood</player>
+        <itemname>Boots of the Shadow Flame</itemname>
+        <itemnumber>19381</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1594867649</timestamp>
+        <cost>-50</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Chromatic Boots</itemname>
+        <itemnumber>19387</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1594866849</timestamp>
+        <cost>-95</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Bloodfang Spaulders</itemname>
+        <itemnumber>16832</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1594866774</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Doomhammar</player>
+        <itemname>Gauntlets of Wrath</itemname>
+        <itemnumber>16964</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1594866310</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Locksoflove</player>
+        <itemname>Dragon's Touch</itemname>
+        <itemnumber>19367</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1594866219</timestamp>
+        <cost>-12</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Netherwind Gloves</itemname>
+        <itemnumber>16913</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1594865986</timestamp>
+        <cost>-2.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Bloodfang Boots</itemname>
+        <itemnumber>16906</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1594864057</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Jarek</player>
+        <itemname>Waistband of Wrath</itemname>
+        <itemnumber>16960</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1594862455</timestamp>
+        <cost>-3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Jarek</player>
+        <itemname>Dragonfang Blade</itemname>
+        <itemnumber>19346</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1594862406</timestamp>
+        <cost>-4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Altmidas</player>
+        <itemname>Bindings of Transcendence</itemname>
+        <itemnumber>16926</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1594862235</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kesulos</player>
+        <itemname>Bloodfang Bracers</itemname>
+        <itemnumber>16911</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1594862065</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ratgodx</player>
+        <itemname>Leggings of Transcendence</itemname>
+        <itemnumber>16922</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1594694779</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Izold</player>
+        <itemname>Crown of Destruction</itemname>
+        <itemnumber>18817</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1594694765</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Eyeshockstuf</player>
+        <itemname>Malistar's Defender</itemname>
+        <itemnumber>17106</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Ragnaros</boss>
+        <timestamp>1594694750</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Imaginewhat</player>
+        <itemname>Cauterizing Band</itemname>
+        <itemnumber>19140</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Majordomo Executus</boss>
+        <timestamp>1594694188</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Shabooty</player>
+        <itemname>Blastershot Launcher</itemname>
+        <itemnumber>17072</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1594693875</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Acantha</player>
+        <itemname>Robes of Prophecy</itemname>
+        <itemnumber>16815</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Golemagg the Incinerator</boss>
+        <timestamp>1594693789</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Shabooty</player>
+        <itemname>Nightslayer Shoulder Pads</itemname>
+        <itemnumber>16823</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1594693506</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Acantha</player>
+        <itemname>Mantle of Prophecy</itemname>
+        <itemnumber>16816</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Sulfuron Harbinger</boss>
+        <timestamp>1594693499</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Locksoflove</player>
+        <itemname>Felheart Slippers</itemname>
+        <itemnumber>16803</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Shazzrah</boss>
+        <timestamp>1594692768</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Shabooty</player>
+        <itemname>Nightslayer Pants</itemname>
+        <itemnumber>16822</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1594691352</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Eyeshockstuf</player>
+        <itemname>Earthfury Gauntlets</itemname>
+        <itemnumber>16839</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1594691318</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
         <player>Basola</player>
         <itemname>Breastplate of Ten Storms</itemname>
         <itemnumber>16950</itemnumber>
@@ -1934,269 +2198,5 @@
         <cost>-2</cost>
         <deletes></deletes>
         <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Danielson</player>
-        <itemname>Giantstalker's Boots</itemname>
-        <itemnumber>16849</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Gehennas</boss>
-        <timestamp>1591666435</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Danielson</player>
-        <itemname>Eskhandar's Right Claw</itemname>
-        <itemnumber>18203</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1591665938</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Izold</player>
-        <itemname>Legplates of Might</itemname>
-        <itemnumber>16867</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1591665891</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Golem</player>
-        <itemname>Choker of Enlightenment</itemname>
-        <itemnumber>17109</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Lucifron</boss>
-        <timestamp>1591665678</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Izold</player>
-        <itemname>Gauntlets of Might</itemname>
-        <itemnumber>16863</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Lucifron</boss>
-        <timestamp>1591665588</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Imaginewhat</player>
-        <itemname>Earthfury Bracers</itemname>
-        <itemnumber>16840</itemnumber>
-        <zone>Zul'Gurub</zone>
-        <boss>Hakkar</boss>
-        <timestamp>1591665075</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Bigbabyjesùs</player>
-        <itemname>Head of Nefarian</itemname>
-        <itemnumber>19002</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1591240021</timestamp>
-        <cost>-5.6</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Jarek</player>
-        <itemname>Archimtiros' Ring of Reckoning</itemname>
-        <itemnumber>19376</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1591239980</timestamp>
-        <cost>-7.5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Nolegs</player>
-        <itemname>Staff of the Shadow Flame</itemname>
-        <itemnumber>19356</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1591239938</timestamp>
-        <cost>-63.8</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Ratgodx</player>
-        <itemname>Robes of Transcendence</itemname>
-        <itemnumber>16923</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1591239894</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Fulminator</player>
-        <itemname>Netherwind Robes</itemname>
-        <itemnumber>16916</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1591239849</timestamp>
-        <cost>-2.1</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Imaginewhat</player>
-        <itemname>Epaulets of Ten Storms</itemname>
-        <itemnumber>16945</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1591239157</timestamp>
-        <cost>-5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Loadheals</player>
-        <itemname>Empowered Leggings</itemname>
-        <itemnumber>19385</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1591239133</timestamp>
-        <cost>-15</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Duress</player>
-        <itemname>Bloodfang Spaulders</itemname>
-        <itemnumber>16832</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1591239090</timestamp>
-        <cost>-9.3</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Bigbabyjesùs</player>
-        <itemname>Claw of Chromaggus</itemname>
-        <itemnumber>19347</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1591239041</timestamp>
-        <cost>-33</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Danielson</player>
-        <itemname>Dragonstalker's Gauntlets</itemname>
-        <itemnumber>16940</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1591238480</timestamp>
-        <cost>-3</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Basola</player>
-        <itemname>Shroud of Pure Thought</itemname>
-        <itemnumber>19430</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1591238450</timestamp>
-        <cost>-23</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Doomhammar</player>
-        <itemname>Malfurion's Blessed Bulwark</itemname>
-        <itemnumber>19405</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1591238227</timestamp>
-        <cost>2.5</cost>
-        <deletes>Whillwinz-1591238123</deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Imdrood</player>
-        <itemname>Malfurion's Blessed Bulwark</itemname>
-        <itemnumber>19405</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1591238210</timestamp>
-        <cost>-7</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Doomhammar</player>
-        <itemname>Drake Talon Cleaver</itemname>
-        <itemnumber>19353</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1591238169</timestamp>
-        <cost>-5.5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Doomhammar</player>
-        <itemname>Malfurion's Blessed Bulwark</itemname>
-        <itemnumber>19405</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1591238123</timestamp>
-        <cost>-2.5</cost>
-        <deletes></deletes>
-        <deletedby>Whillwinz-1591238227</deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Lazsummonus</player>
-        <itemname>Essence Gatherer</itemname>
-        <itemnumber>19435</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1591237465</timestamp>
-        <cost>-2.7</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Lazsummonus</player>
-        <itemname>Essence Gatherer</itemname>
-        <itemnumber>19435</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1591237462</timestamp>
-        <cost>2.9</cost>
-        <deletes>Whillwinz-1591237460</deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Lazsummonus</player>
-        <itemname>Essence Gatherer</itemname>
-        <itemnumber>19435</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1591237460</timestamp>
-        <cost>-2.9</cost>
-        <deletes></deletes>
-        <deletedby>Whillwinz-1591237462</deletedby>
     </lootentry>
 </loothistory>
