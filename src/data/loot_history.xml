@@ -1,5 +1,324 @@
 <loothistory>
     <lootentry>
+        <player>Blitzosaurus</player>
+        <itemname>Qiraji Bindings of Dominance</itemname>
+        <itemnumber>20932</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Viscidus</boss>
+        <timestamp>1600922485</timestamp>
+        <cost>-17</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Stalecheetos</player>
+        <itemname>Qiraji Bindings of Command</itemname>
+        <itemnumber>20928</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Viscidus</boss>
+        <timestamp>1600922431</timestamp>
+        <cost>-20</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Ring of the Qiraji Fury</itemname>
+        <itemnumber>21677</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Viscidus</boss>
+        <timestamp>1600922350</timestamp>
+        <cost>-45.6</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kesulos</player>
+        <itemname>Imperial Qiraji Armaments</itemname>
+        <itemnumber>21232</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Viscidus</boss>
+        <timestamp>1600922281</timestamp>
+        <cost>-69</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Blitzosaurus</player>
+        <itemname>The Burrower's Shell</itemname>
+        <itemnumber>23558</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Ouro</boss>
+        <timestamp>1600919922</timestamp>
+        <cost>-3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Basola</player>
+        <itemname>Skin of the Great Sandworm</itemname>
+        <itemnumber>20931</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Ouro</boss>
+        <timestamp>1600919870</timestamp>
+        <cost>-2.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Ricki</player>
+        <itemname>Ouro's Intact Hide</itemname>
+        <itemnumber>20927</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Ouro</boss>
+        <timestamp>1600919812</timestamp>
+        <cost>-48.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lazsummonus</player>
+        <itemname>Eyestalk Waist Cord</itemname>
+        <itemnumber>22730</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>C'Thun</boss>
+        <timestamp>1600919243</timestamp>
+        <cost>-132.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Xanthos</player>
+        <itemname>Grasp of the Old God</itemname>
+        <itemnumber>21582</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>C'Thun</boss>
+        <timestamp>1600919173</timestamp>
+        <cost>-21</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Eye of C'Thun</itemname>
+        <itemnumber>21221</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>C'Thun</boss>
+        <timestamp>1600919113</timestamp>
+        <cost>-22.2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bendaksk</player>
+        <itemname>Husk of the Old God</itemname>
+        <itemnumber>20933</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>C'Thun</boss>
+        <timestamp>1600919058</timestamp>
+        <cost>-5.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Durrty</player>
+        <itemname>Carapace of the Old God</itemname>
+        <itemnumber>20929</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>C'Thun</boss>
+        <timestamp>1600919006</timestamp>
+        <cost>-26.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Stalecheetos</player>
+        <itemname>Red Qiraji Resonating Crystal</itemname>
+        <itemnumber>21321</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Twin Emperors</boss>
+        <timestamp>1600916263</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Adyss</player>
+        <itemname>Vek'lor's Diadem</itemname>
+        <itemnumber>20930</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Twin Emperors</boss>
+        <timestamp>1600915815</timestamp>
+        <cost>-6.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bigbabyjesùs</player>
+        <itemname>Boots of Epiphany</itemname>
+        <itemnumber>21600</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Twin Emperors</boss>
+        <timestamp>1600915631</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bigbabyjesùs</player>
+        <itemname>Vek'nilash's Circlet</itemname>
+        <itemnumber>20926</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Twin Emperors</boss>
+        <timestamp>1600915553</timestamp>
+        <cost>-18.4</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Loadheals</player>
+        <itemname>Bracelets of Royal Redemption</itemname>
+        <itemnumber>21604</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Twin Emperors</boss>
+        <timestamp>1600915473</timestamp>
+        <cost>-15</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tagus</player>
+        <itemname>Huhuran's Stinger</itemname>
+        <itemnumber>21616</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Princess Huhuran</boss>
+        <timestamp>1600913816</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Lazsummonus</player>
+        <itemname>Qiraji Bindings of Dominance</itemname>
+        <itemnumber>20932</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Princess Huhuran</boss>
+        <timestamp>1600913533</timestamp>
+        <cost>-2.5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Bigbabyjesùs</player>
+        <itemname>Qiraji Bindings of Command</itemname>
+        <itemnumber>20928</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Princess Huhuran</boss>
+        <timestamp>1600913488</timestamp>
+        <cost>-17</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Hauntedmac</player>
+        <itemname>Silithid Carapace Chestguard</itemname>
+        <itemnumber>21652</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Fankriss the Unyielding</boss>
+        <timestamp>1600912304</timestamp>
+        <cost>-2.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wigglz</player>
+        <itemname>Recomposed Boots</itemname>
+        <itemnumber>21648</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Battleguard Sartura</boss>
+        <timestamp>1600911828</timestamp>
+        <cost>-2.7</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Loadheals</player>
+        <itemname>Creeping Vine Helm</itemname>
+        <itemnumber>21669</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Battleguard Sartura</boss>
+        <timestamp>1600911797</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Imdrood</player>
+        <itemname>Guise of the Devourer</itemname>
+        <itemnumber>21693</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Bug Family</boss>
+        <timestamp>1600910721</timestamp>
+        <cost>-16.6</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dirtfreckle</player>
+        <itemname>Boots of the Fallen Hero</itemname>
+        <itemnumber>21688</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>Bug Family</boss>
+        <timestamp>1600910686</timestamp>
+        <cost>-5</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wargonk</player>
+        <itemname>Beetle Scaled Wristguards</itemname>
+        <itemnumber>21708</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>The Prophet Skeram</boss>
+        <timestamp>1600910085</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Oneoneone</player>
+        <itemname>Staff of the Qiraji Prophets</itemname>
+        <itemnumber>21128</itemnumber>
+        <zone>Temple of Ahn'Qiraj</zone>
+        <boss>The Prophet Skeram</boss>
+        <timestamp>1600910040</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Factsnlogic</player>
+        <itemname>Handbook of Backstab IX</itemname>
+        <itemnumber>21300</itemnumber>
+        <zone>Ruins of Ahn'Qiraj</zone>
+        <boss>Ayamiss the Hunter</boss>
+        <timestamp>1600800224</timestamp>
+        <cost>2</cost>
+        <deletes>Whillwinz-1600800161</deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Factsnlogic</player>
+        <itemname>Handbook of Backstab IX</itemname>
+        <itemnumber>21300</itemnumber>
+        <zone>Ruins of Ahn'Qiraj</zone>
+        <boss>Ayamiss the Hunter</boss>
+        <timestamp>1600800161</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby>Whillwinz-1600800224</deletedby>
+    </lootentry>
+    <lootentry>
         <player>Ríco</player>
         <itemname>Drillborer Disk</itemname>
         <itemnumber>17066</itemnumber>
@@ -1877,325 +2196,6 @@
         <boss>C'Thun</boss>
         <timestamp>1598500856</timestamp>
         <cost>-45</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Bigbabyjesùs</player>
-        <itemname>Eye of C'Thun</itemname>
-        <itemnumber>21221</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>C'Thun</boss>
-        <timestamp>1598500789</timestamp>
-        <cost>-62.5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Durrty</player>
-        <itemname>Vek'lor's Gloves of Devastation</itemname>
-        <itemnumber>21599</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Twin Emperors</boss>
-        <timestamp>1598496281</timestamp>
-        <cost>-5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Kesulos</player>
-        <itemname>Vek'lor's Diadem</itemname>
-        <itemnumber>20930</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Twin Emperors</boss>
-        <timestamp>1598496265</timestamp>
-        <cost>-3.9</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Wigglz</player>
-        <itemname>Vek'nilash's Circlet</itemname>
-        <itemnumber>20926</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Twin Emperors</boss>
-        <timestamp>1598496202</timestamp>
-        <cost>-20.5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Robthegiant</player>
-        <itemname>Regenerating Belt of Vek'nilash</itemname>
-        <itemnumber>21609</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Twin Emperors</boss>
-        <timestamp>1598496084</timestamp>
-        <cost>-16</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Wigglz</player>
-        <itemname>Qiraji Bindings of Dominance</itemname>
-        <itemnumber>20932</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Princess Huhuran</boss>
-        <timestamp>1598494283</timestamp>
-        <cost>-25.5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Tagus</player>
-        <itemname>Qiraji Bindings of Command</itemname>
-        <itemnumber>20928</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Princess Huhuran</boss>
-        <timestamp>1598494223</timestamp>
-        <cost>-20.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Robthegiant</player>
-        <itemname>Wasphide Gauntlets</itemname>
-        <itemnumber>21617</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Princess Huhuran</boss>
-        <timestamp>1598494159</timestamp>
-        <cost>-16</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Tagus</player>
-        <itemname>Pauldrons of the Unrelenting</itemname>
-        <itemnumber>21639</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Fankriss the Unyielding</boss>
-        <timestamp>1598493199</timestamp>
-        <cost>-10.1</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Imdrood</player>
-        <itemname>Mantle of Wicked Revenge</itemname>
-        <itemnumber>21665</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Fankriss the Unyielding</boss>
-        <timestamp>1598493149</timestamp>
-        <cost>-24.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Locksoflove</player>
-        <itemname>Necklace of Purity</itemname>
-        <itemnumber>21678</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Battleguard Sartura</boss>
-        <timestamp>1598492671</timestamp>
-        <cost>-3.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Dirtfreckle</player>
-        <itemname>Imperial Qiraji Armaments</itemname>
-        <itemnumber>21232</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Battleguard Sartura</boss>
-        <timestamp>1598492579</timestamp>
-        <cost>-44.8</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Worthlessgg</player>
-        <itemname>Angelista's Charm</itemname>
-        <itemnumber>21690</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Bug Family</boss>
-        <timestamp>1598491670</timestamp>
-        <cost>-28.1</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Essentia</player>
-        <itemname>Guise of the Devourer</itemname>
-        <itemnumber>21693</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Bug Family</boss>
-        <timestamp>1598491612</timestamp>
-        <cost>-52.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Tagus</player>
-        <itemname>Pendant of the Qiraji Guardian</itemname>
-        <itemnumber>21700</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>The Prophet Skeram</boss>
-        <timestamp>1598490939</timestamp>
-        <cost>-2.4</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Worthlessg</player>
-        <itemname>Bloodfang Chestpiece</itemname>
-        <itemnumber>16905</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1598330130</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Head of Nefarian</itemname>
-        <itemnumber>19002</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1598330114</timestamp>
-        <cost>-4</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Essentia</player>
-        <itemname>Archimtiros' Ring of Reckoning</itemname>
-        <itemnumber>19376</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1598330081</timestamp>
-        <cost>-7.8</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Dirtfreckle</player>
-        <itemname>Boots of the Shadow Flame</itemname>
-        <itemnumber>19381</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1598330072</timestamp>
-        <cost>-11</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Whillwin</player>
-        <itemname>Elementium Threaded Cloak</itemname>
-        <itemnumber>19386</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1598329274</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Izold</player>
-        <itemname>Chromatic Boots</itemname>
-        <itemnumber>19387</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1598329256</timestamp>
-        <cost>-40</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Allein</player>
-        <itemname>Pauldrons of Wrath</itemname>
-        <itemnumber>16961</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1598329211</timestamp>
-        <cost>-2.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Tagus</player>
-        <itemname>Pauldrons of Wrath</itemname>
-        <itemnumber>16961</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1598329185</timestamp>
-        <cost>-10</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Drakeramoray</player>
-        <itemname>Ring of Blackrock</itemname>
-        <itemnumber>19397</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1598328594</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Wigglz</player>
-        <itemname>Nemesis Gloves</itemname>
-        <itemnumber>16928</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1598328409</timestamp>
-        <cost>0</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Whillwin</player>
-        <itemname>Malfurion's Blessed Bulwark</itemname>
-        <itemnumber>19405</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1598328400</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Karesh</player>
-        <itemname>Gauntlets of Wrath</itemname>
-        <itemnumber>16964</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1598326903</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Worthlessg</player>
-        <itemname>Bloodfang Boots</itemname>
-        <itemnumber>16906</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Broodlord Lashlayer</boss>
-        <timestamp>1598326506</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Drakeramoray</player>
-        <itemname>Boots of Transcendence</itemname>
-        <itemnumber>16919</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Broodlord Lashlayer</boss>
-        <timestamp>1598326500</timestamp>
-        <cost>-2</cost>
         <deletes></deletes>
         <deletedby></deletedby>
     </lootentry>
