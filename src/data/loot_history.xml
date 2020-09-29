@@ -1,5 +1,236 @@
 <loothistory>
     <lootentry>
+        <player>Papahulk</player>
+        <itemname>Drillborer Disk</itemname>
+        <itemnumber>17066</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1601350005</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wargonk</player>
+        <itemname>Aurastone Hammer</itemname>
+        <itemnumber>17105</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1601349958</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Shabooty</player>
+        <itemname>Nightslayer Cover</itemname>
+        <itemnumber>16821</itemnumber>
+        <zone>Molten Core</zone>
+        <boss>Garr</boss>
+        <timestamp>1601349923</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Breastplate of Wrath</itemname>
+        <itemnumber>16966</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1601348406</timestamp>
+        <cost>-3.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Essentia</player>
+        <itemname>Prestor's Talisman of Connivery</itemname>
+        <itemnumber>19377</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1601348287</timestamp>
+        <cost>-5.9</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wargonk</player>
+        <itemname>Head of Nefarian</itemname>
+        <itemnumber>19002</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1601348229</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Jarek</player>
+        <itemname>Ashkandi, Greatsword of the Brotherhood</itemname>
+        <itemnumber>19364</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1601348134</timestamp>
+        <cost>-11</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wargonk</player>
+        <itemname>Epaulets of Ten Storms</itemname>
+        <itemnumber>16945</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1601347217</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wargonk</player>
+        <itemname>Taut Dragonhide Shoulderpads</itemname>
+        <itemnumber>19389</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1601347183</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Wargonk</player>
+        <itemname>Emberweave Leggings</itemname>
+        <itemnumber>19433</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1601346549</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Kittara</player>
+        <itemname>Dragonstalker's Gauntlets</itemname>
+        <itemnumber>16940</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1601346255</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Allein</player>
+        <itemname>Dragonbreath Hand Cannon</itemname>
+        <itemnumber>19368</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1601346207</timestamp>
+        <cost>-2.3</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Jarek</player>
+        <itemname>Claw of the Black Drake</itemname>
+        <itemnumber>19365</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1601344587</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Imaginewhat</player>
+        <itemname>Rejuvenating Gem</itemname>
+        <itemnumber>19395</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1601344529</timestamp>
+        <cost>-25</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dattster</player>
+        <itemname>Netherwind Boots</itemname>
+        <itemnumber>16912</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1601343925</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Zuraiz</player>
+        <itemname>Netherwind Boots</itemname>
+        <itemnumber>16912</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1601343918</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Lifegiving Gem</itemname>
+        <itemnumber>19341</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1601343880</timestamp>
+        <cost>-7.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Drakeramoray</player>
+        <itemname>Pendant of the Fallen Dragon</itemname>
+        <itemnumber>19371</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1601342675</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Tbags</player>
+        <itemname>Nemesis Belt</itemname>
+        <itemnumber>16933</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1601342621</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Puckbunny</player>
+        <itemname>Bloodfang Bracers</itemname>
+        <itemnumber>16911</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1601342220</timestamp>
+        <cost>-2</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
+        <player>Dbags</player>
+        <itemname>Bracelets of Wrath</itemname>
+        <itemnumber>16959</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Razorgore the Untamed</boss>
+        <timestamp>1601342154</timestamp>
+        <cost>-7.1</cost>
+        <deletes></deletes>
+        <deletedby></deletedby>
+    </lootentry>
+    <lootentry>
         <player>Blitzosaurus</player>
         <itemname>Qiraji Bindings of Dominance</itemname>
         <itemnumber>20932</itemnumber>
@@ -1965,237 +2196,6 @@
         <boss>Chromaggus</boss>
         <timestamp>1598926609</timestamp>
         <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Worthlessgg</player>
-        <itemname>Claw of Chromaggus</itemname>
-        <itemnumber>19347</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1598926577</timestamp>
-        <cost>-11</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Foopa</player>
-        <itemname>Shadow Wing Focus Staff</itemname>
-        <itemnumber>19355</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1598926014</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Nolegs</player>
-        <itemname>Band of Forced Concentration</itemname>
-        <itemnumber>19403</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1598925859</timestamp>
-        <cost>-5</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Izold</player>
-        <itemname>Drake Talon Pauldrons</itemname>
-        <itemnumber>19394</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1598925819</timestamp>
-        <cost>-20.6</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Foopa</player>
-        <itemname>Ringo's Blizzard Boots</itemname>
-        <itemnumber>19438</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1598924925</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Essence Gatherer</itemname>
-        <itemnumber>19435</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1598924873</timestamp>
-        <cost>-2.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Oldbilly</player>
-        <itemname>Dragonstalker's Gauntlets</itemname>
-        <itemnumber>16940</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1598924588</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Eyeshockstuf</player>
-        <itemname>Natural Alignment Crystal</itemname>
-        <itemnumber>19344</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1598924573</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Foopa</player>
-        <itemname>Netherwind Boots</itemname>
-        <itemnumber>16912</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Broodlord Lashlayer</boss>
-        <timestamp>1598924176</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Drakeramoray</player>
-        <itemname>Belt of Transcendence</itemname>
-        <itemnumber>16925</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1598923509</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Drakeramoray</player>
-        <itemname>Bindings of Transcendence</itemname>
-        <itemnumber>16926</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1598923480</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Karesh</player>
-        <itemname>The Untamed Blade</itemname>
-        <itemnumber>19334</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1598923462</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Karesh</player>
-        <itemname>Waistband of Wrath</itemname>
-        <itemnumber>16960</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1598923455</timestamp>
-        <cost>-2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Ratgodx</player>
-        <itemname>Boots of Pure Thought</itemname>
-        <itemnumber>19437</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1598923397</timestamp>
-        <cost>-40</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Locksoflove</player>
-        <itemname>Skin of the Great Sandworm</itemname>
-        <itemnumber>20931</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Ouro</boss>
-        <timestamp>1598503338</timestamp>
-        <cost>-2.1</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Dbags</player>
-        <itemname>Ouro's Intact Hide</itemname>
-        <itemnumber>20927</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Ouro</boss>
-        <timestamp>1598503260</timestamp>
-        <cost>-21.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Imaginewhat</player>
-        <itemname>Wormscale Blocker</itemname>
-        <itemnumber>21610</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>Ouro</boss>
-        <timestamp>1598503177</timestamp>
-        <cost>-100.8</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Sevi</player>
-        <itemname>Husk of the Old God</itemname>
-        <itemnumber>20933</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>C'Thun</boss>
-        <timestamp>1598501041</timestamp>
-        <cost>-34.1</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Cleavesteamr</player>
-        <itemname>Carapace of the Old God</itemname>
-        <itemnumber>20929</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>C'Thun</boss>
-        <timestamp>1598500982</timestamp>
-        <cost>-25</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Almidas</player>
-        <itemname>Eyestalk Waist Cord</itemname>
-        <itemnumber>22730</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>C'Thun</boss>
-        <timestamp>1598500924</timestamp>
-        <cost>-91.2</cost>
-        <deletes></deletes>
-        <deletedby></deletedby>
-    </lootentry>
-    <lootentry>
-        <player>Ratgodx</player>
-        <itemname>Cloak of Clarity</itemname>
-        <itemnumber>21583</itemnumber>
-        <zone>Temple of Ahn'Qiraj</zone>
-        <boss>C'Thun</boss>
-        <timestamp>1598500856</timestamp>
-        <cost>-45</cost>
         <deletes></deletes>
         <deletedby></deletedby>
     </lootentry>
