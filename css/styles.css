@@ -1,0 +1,192 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  background-color: #090909;
+  color: #fff;
+  font-family: serif;
+  line-height: 1.5;
+  text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  font-size: 16px;
+}
+header,
+nav,
+main {
+  display: block;
+}
+a {
+  background: transparent;
+  color: #2b9fd3;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  -webkit-tap-highlight-color: rgba(43, 159, 211, 0.3);
+}
+a:hover {
+  color: #227fa9;
+  background: transparent;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0.75em 0;
+  line-height: 1;
+  font-weight: 300;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 27px;
+}
+h4 {
+  font-size: 21px;
+}
+img {
+  border: 0;
+  vertical-align: middle;
+}
+.page-width {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.main-nav ul {
+  list-style-type: none;
+  display: flex;
+  padding: 0;
+}
+.main-nav ul li {
+  margin-right: 12px;
+}
+.main-nav ul li:last-child {
+  margin-right: 0;
+}
+.main-nav .active {
+  text-decoration: underline;
+}
+.table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.table th {
+  background-color: #bbb;
+  color: #000;
+}
+.table th.sorting,
+.table th.sorting_asc,
+.table th.sorting_desc {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.table th.sorting:hover,
+.table th.sorting_asc:hover,
+.table th.sorting_desc:hover {
+  background-color: #aaa;
+}
+.table th.sorting_asc .sort-arrow {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid black;
+}
+.table th.sorting_desc .sort-arrow {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid black;
+}
+.table th .sort-arrow {
+  display: inline-flex;
+  margin-left: 4px;
+  width: 10px;
+  top: -2px;
+  position: relative;
+}
+.table th,
+.table td {
+  border: 1px solid #999;
+  padding: 0 6px;
+}
+.table tbody tr:hover td {
+  background-color: #333;
+}
+.dkp-table th,
+.dkp-table td {
+  height: 30px;
+  line-height: 30px;
+}
+.dkp-table .col-player {
+  text-align: left;
+}
+@media (min-width: 768px) {
+  .dkp-table .col-player {
+    width: 240px;
+  }
+}
+.dkp-table .col-class {
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .dkp-table .col-class {
+    width: 100px;
+  }
+}
+.dkp-table .col-class .class-icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}
+.dkp-table .col-dkp {
+  text-align: right;
+}
+@media (min-width: 768px) {
+  .dkp-table .col-dkp {
+    width: 150px;
+  }
+}
+.dkp-history-table {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .dkp-history-table .col-players {
+    width: 100%;
+  }
+}
+.dkp-history-table .col-dkp {
+  text-align: center;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+@media (min-width: 768px) {
+  .dkp-history-table .col-dkp {
+    width: 100px;
+  }
+}
+@media (min-width: 768px) {
+  .dkp-history-table .col-reason {
+    white-space: nowrap;
+    width: 300px;
+  }
+}
+@media (min-width: 768px) {
+  .dkp-history-table .col-date {
+    width: 200px;
+  }
+}
+.loot-history-table {
+  width: 100%;
+}
